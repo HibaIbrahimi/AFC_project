@@ -1,0 +1,2641 @@
+personName,countryOfCitizenship,selfMade,industries
+Bernard Arnault & family,France,False,Fashion & Retail
+Elon Musk,United States,True,Automotive
+Jeff Bezos,United States,True,Technology
+Larry Ellison,United States,True,Technology
+Warren Buffett,United States,True,Finance & Investments
+Bill Gates,United States,True,Technology
+Michael Bloomberg,United States,True,Media & Entertainment
+Carlos Slim Helu & family,Mexico,True,Telecom
+Mukesh Ambani,India,False,Diversified
+Steve Ballmer,United States,True,Technology
+Francoise Bettencourt Meyers & family,France,False,Fashion & Retail
+Larry Page,United States,True,Technology
+Amancio Ortega,Spain,True,Fashion & Retail
+Sergey Brin,United States,True,Technology
+Zhong Shanshan,China,True,Food & Beverage
+Mark Zuckerberg,United States,True,Technology
+Charles Koch & family,United States,False,Diversified
+Julia Koch & family,United States,False,Diversified
+Jim Walton,United States,False,Fashion & Retail
+Rob Walton & family,United States,False,Fashion & Retail
+Alice Walton,United States,False,Fashion & Retail
+David Thomson & family,Canada,False,Media & Entertainment
+Michael Dell,United States,True,Technology
+Gautam Adani,India,True,Diversified
+Phil Knight & family,United States,True,Fashion & Retail
+Zhang Yiming,China,True,Technology
+Dieter Schwarz,Germany,False,Fashion & Retail
+François Pinault & family,France,True,Fashion & Retail
+Klaus-Michael Kuehne,Germany,False,Logistics
+Giovanni Ferrero,Italy,False,Food & Beverage
+Jacqueline Mars,United States,False,Food & Beverage
+John Mars,United States,False,Food & Beverage
+Li Ka-shing,Hong Kong,True,Diversified
+Ma Huateng,China,True,Technology
+Miriam Adelson & family,United States,False,Gambling & Casinos
+Ken Griffin,United States,True,Finance & Investments
+Mark Mateschitz,Austria,False,Food & Beverage
+Robin Zeng,Hong Kong,True,Automotive
+Tadashi Yanai & family,Japan,True,Fashion & Retail
+Len Blavatnik,United States,True,Diversified
+Alain Wertheimer,France,False,Fashion & Retail
+Gerard Wertheimer,France,False,Fashion & Retail
+Gianluigi Aponte,Switzerland,True,Logistics
+Rafaela Aponte-Diamant,Switzerland,True,Logistics
+Colin Zheng Huang,China,True,Technology
+Reinhold Wuerth & family,Germany,True,Manufacturing
+Lee Shau Kee,Hong Kong,True,Real Estate
+Jeff Yass,United States,True,Finance & Investments
+Jim Simons,United States,True,Finance & Investments
+Stephen Schwarzman,United States,True,Finance & Investments
+Susanne Klatten,Germany,False,Automotive
+Gina Rinehart,Australia,False,Metals & Mining
+William Ding,China,True,Technology
+Germán Larrea Mota Velasco & family,Mexico,False,Metals & Mining
+Shiv Nadar,India,True,Technology
+Low Tuck Kwong,Indonesia,True,Energy
+Thomas Peterffy,United States,True,Finance & Investments
+Andrey Melnichenko & family,Russia,True,Metals & Mining
+Stefan Quandt,Germany,False,Automotive
+MacKenzie Scott,United States,False,Technology
+R. Budi Hartono,Indonesia,False,Finance & Investments
+Vladimir Potanin,Russia,True,Metals & Mining
+Jack Ma,China,True,Technology
+He Xiangjian & family,China,True,Manufacturing
+Iris Fontbona & family,Chile,False,Metals & Mining
+Michael Hartono,Indonesia,False,Manufacturing
+James Ratcliffe,United Kingdom,True,Manufacturing
+Cyrus Poonawalla,India,False,Healthcare
+Masayoshi Son,Japan,True,Telecom
+Vladimir Lisin,Russia,True,Metals & Mining
+Emmanuel Besnier,France,False,Food & Beverage
+Abigail Johnson,United States,False,Finance & Investments
+Leonid Mikhelson & family,Russia,True,Energy
+Lukas Walton,United States,False,Fashion & Retail
+Wang Wei,China,True,Service
+Jensen Huang,United States,True,Technology
+Leonard Lauder,United States,False,Fashion & Retail
+Takemitsu Takizaki,Japan,True,Manufacturing
+Alexey Mordashov & family,Russia,True,Metals & Mining
+Vagit Alekperov,Russia,True,Energy
+"Thomas Frist, Jr. & family",United States,True,Healthcare
+Andrew Forrest,Australia,True,Metals & Mining
+Ray Dalio,United States,True,Finance & Investments
+Eric Li,China,True,Automotive
+Wang Wenyin,China,True,Metals & Mining
+Eyal Ofer,Israel,False,Diversified
+Qin Yinglin,China,True,Food & Beverage
+Wang Chuanfu,China,True,Automotive
+Harold Hamm & family,United States,True,Energy
+David Tepper,United States,True,Finance & Investments
+Gennady Timchenko,Russia,True,Energy
+Daniel Gilbert,United States,True,Finance & Investments
+Lakshmi Mittal,India,False,Metals & Mining
+Steve Cohen,United States,True,Finance & Investments
+Carl Icahn,United States,True,Finance & Investments
+Savitri Jindal & family,India,False,Metals & Mining
+Donald Bren,United States,True,Real Estate
+"John Menard, Jr.",United States,True,Fashion & Retail
+Rupert Murdoch & family,United States,False,Media & Entertainment
+Vicky Safra & family,Brazil,False,Finance & Investments
+"Theo Albrecht, Jr. & family",Germany,False,Fashion & Retail
+Renata Kellnerova & family,Czech Republic,False,Finance & Investments
+Li Xiting,Singapore,True,Healthcare
+Stefan Persson,Sweden,False,Fashion & Retail
+Eric Schmidt,United States,True,Technology
+Michael Platt,United Kingdom,True,Finance & Investments
+Pang Kang,China,True,Food & Beverage
+Karl Albrecht Jr. & family,Germany,False,Fashion & Retail
+Beate Heister,Germany,False,Fashion & Retail
+Jorge Paulo Lemann & family,Brazil,True,Food & Beverage
+Peter Woo,Hong Kong,False,Real Estate
+Dilip Shanghvi,India,True,Healthcare
+Robert Pera,United States,True,Technology
+Radhakishan Damani,India,True,Fashion & Retail
+Huang Shilin,China,True,Automotive
+Dhanin Chearavanont,Thailand,False,Diversified
+David Green & family,United States,True,Fashion & Retail
+Charoen Sirivadhanabhakdi,Thailand,True,Food & Beverage
+Charlene de Carvalho-Heineken & family,Netherlands,False,Food & Beverage
+Xu Hang,Hong Kong,True,Healthcare
+Wei Jianjun & family,China,True,Automotive
+Alisher Usmanov,Russia,True,Metals & Mining
+Goh Cheng Liang,Singapore,True,Manufacturing
+Kumar Birla,India,False,Diversified
+Aliko Dangote,Nigeria,True,Manufacturing
+Kwong Siu-hing,Hong Kong,False,Real Estate
+Idan Ofer,Israel,False,Diversified
+Chen Bang,China,True,Healthcare
+Lui Che Woo,Hong Kong,True,Gambling & Casinos
+John Fredriksen,Cyprus,True,Logistics
+Diane Hendricks,United States,True,Construction & Engineering
+Jan Koum,United States,True,Technology
+Jerry Jones,United States,True,Sports
+George Kaiser,United States,False,Energy
+Joseph Lau,Hong Kong,True,Real Estate
+Lu Xiangyang,China,True,Automotive
+Harry Triguboff,Australia,True,Real Estate
+Uday Kotak,India,True,Finance & Investments
+Stanley Kroenke,United States,True,Sports
+Mikhail Fridman,Russia,True,Energy
+Sarath Ratanavadi,Thailand,True,Energy
+Dang Yanbao,China,True,Metals & Mining
+Jiang Rensheng & family,China,True,Healthcare
+Shahid Khan,United States,True,Automotive
+Laurene Powell Jobs & family,United States,False,Technology
+Robert Kuok,Malaysia,True,Diversified
+Stephen Ross,United States,True,Real Estate
+Pavel Durov,United Arab Emirates,True,Technology
+Andreas Struengmann & family,Germany,True,Healthcare
+Thomas Struengmann & family,Germany,True,Healthcare
+Liu Hanyuan,China,True,Food & Beverage
+Michael Rubin,United States,True,Fashion & Retail
+Israel Englander,United States,True,Finance & Investments
+Viatcheslav Kantor,Russia,True,Manufacturing
+Anthony Pratt,Australia,False,Manufacturing
+Mikhail Prokhorov,Russia,True,Finance & Investments
+Giorgio Armani,Italy,True,Fashion & Retail
+Johann Rupert & family,South Africa,False,Fashion & Retail
+Gong Hongjia & family,Hong Kong,True,Finance & Investments
+Zhang Zhidong,China,True,Technology
+Philip Anschutz,United States,False,Finance & Investments
+Judy Love & family,United States,True,Fashion & Retail
+Ricardo Salinas Pliego & family,Mexico,False,Fashion & Retail
+Donald Newhouse,United States,False,Media & Entertainment
+Robert Kraft,United States,True,Sports
+Marcel Herrmann Telles,Brazil,True,Food & Beverage
+Suleiman Kerimov & family,Russia,True,Finance & Investments
+Sky Xu,China,True,Fashion & Retail
+Changpeng Zhao,Canada,True,Finance & Investments
+Andrew Beal,United States,True,Finance & Investments
+Mike Cannon-Brookes,Australia,True,Technology
+Carl Cook,United States,False,Healthcare
+David Duffield,United States,True,Technology
+Jeffery Hildebrand,United States,True,Energy
+Viktor Rashnikov,Russia,True,Manufacturing
+Eduardo Saverin,Brazil,True,Technology
+Georg Schaeffler,Germany,False,Automotive
+Christy Walton,United States,False,Fashion & Retail
+Scott Farquhar,Australia,True,Technology
+Quek Leng Chan,Malaysia,False,Diversified
+Wu Yajun,China,True,Real Estate
+Autry Stephens,United States,True,Energy
+Liu Yongxing,China,True,Service
+Vinod Adani,Cyprus,True,Diversified
+Nicolas Puech,France,False,Fashion & Retail
+"Jacques Saadé, Jr.",France,False,Logistics
+Rodolphe Saadé,France,False,Logistics
+Tanya Saadé Zeenny,France,False,Logistics
+Melker Schorling & family,Sweden,True,Finance & Investments
+Andrei Guriev & family,Russia,True,Manufacturing
+Michael Kim,United States,True,Finance & Investments
+Lei Jun,China,True,Technology
+Friedhelm Loh,Germany,False,Manufacturing
+Sun Piaoyang,China,True,Healthcare
+Rick Cohen & family,United States,False,Technology
+Jin Baofang,China,True,Energy
+Luo Liguo & family,China,True,Manufacturing
+Marijke Mars,United States,False,Food & Beverage
+Pamela Mars,United States,False,Food & Beverage
+Valerie Mars,United States,False,Food & Beverage
+Victoria Mars,United States,False,Food & Beverage
+Vincent Bolloré & family,France,False,Finance & Investments
+Jim Pattison,Canada,True,Diversified
+Ernesto Bertarelli,Switzerland,False,Healthcare
+Wang Xing,China,True,Technology
+Brian Chesky,United States,True,Technology
+James Dyson,United Kingdom,True,Manufacturing
+Roman Abramovich & family,Russia,True,Diversified
+Antonia Ax:son Johnson & family,Sweden,False,Diversified
+Daniel Kretinsky,Czech Republic,True,Energy
+John Malone,United States,True,Media & Entertainment
+Azim Premji,India,False,Technology
+Charles Schwab,United States,True,Finance & Investments
+Eric Smidt,United States,True,Fashion & Retail
+David Cheriton,Canada,True,Technology
+Ivan Glasenberg,Switzerland,True,Metals & Mining
+Alexander Otto,Germany,False,Real Estate
+Anthony von Mandl,Canada,True,Food & Beverage
+Wang Liping & family,China,True,Manufacturing
+Finn Rausing,Sweden,False,Food & Beverage
+Jorn Rausing,Sweden,False,Food & Beverage
+Kirsten Rausing,Sweden,False,Food & Beverage
+Tatyana Bakalchuk,Russia,True,Fashion & Retail
+John Doerr,United States,True,Technology
+Richard Liu,China,True,Technology
+Dustin Moskovitz,United States,True,Technology
+Pierre Omidyar,United States,True,Technology
+Pei Zhenhua,China,True,Energy
+Carrie Perrodo & family,France,False,Energy
+Chen Jianhua,China,True,Manufacturing
+Michael Otto,Germany,False,Fashion & Retail
+Leon Black,United States,True,Finance & Investments
+Graeme Hart,New Zealand,True,Finance & Investments
+Ravi Jaipuria,India,False,Food & Beverage
+Hasso Plattner & family,Germany,True,Technology
+Carlos Alberto Sicupira & family,Brazil,True,Food & Beverage
+Manuel Villar,Philippines,True,Real Estate
+Andreas von Bechtolsheim & family,Germany,True,Technology
+"Chase Coleman, III.",United States,True,Finance & Investments
+Ann Walton Kroenke,United States,False,Fashion & Retail
+Li Zhenguo & family,China,True,Manufacturing
+Jim Kennedy,United States,False,Media & Entertainment
+Nicky Oppenheimer & family,South Africa,False,Metals & Mining
+Blair Parry-Okeden,United States,False,Media & Entertainment
+Zheng Shuliang & family,China,False,Metals & Mining
+John Morris,United States,True,Fashion & Retail
+Stefano Pessina,Monaco,False,Fashion & Retail
+Francine von Finck & family,Germany,False,Finance & Investments
+Francis Choi,Hong Kong,True,Real Estate
+German Khan,Russia,True,Energy
+Abdulsamad Rabiu,Nigeria,False,Diversified
+George Roberts,United States,True,Finance & Investments
+Kushal Pal Singh,India,False,Real Estate
+Wang Jianlin,China,True,Real Estate
+Yang Huiyan & family,China,False,Real Estate
+Laurent Dassault,France,False,Diversified
+Thierry Dassault,France,False,Diversified
+Tilman Fertitta,United States,True,Food & Beverage
+Marie-Hélène Habert-Dassault,France,False,Diversified
+Karel Komarek,Czech Republic,True,Gambling & Casinos
+Nathan Blecharczyk,United States,True,Technology
+Leonid Fedun,Russia,True,Energy
+Bernard Marcus,United States,True,Fashion & Retail
+Patrick Ryan,United States,True,Finance & Investments
+Robert F. Smith,United States,True,Finance & Investments
+Pavel Tykac,Czech Republic,True,Metals & Mining
+Eric Wittouck,Belgium,False,Finance & Investments
+Orlando Bravo,United States,True,Finance & Investments
+Ding Shizhong,China,True,Fashion & Retail
+Nancy Walton Laurie,United States,False,Fashion & Retail
+Jay Y. Lee,South Korea,False,Technology
+Ramzi Musallam,United States,True,Finance & Investments
+David Shaw,United States,True,Finance & Investments
+Andrei Skoch & family,Russia,True,Metals & Mining
+Georg Stumpf,Austria,True,Diversified
+Rocco Commisso,United States,True,Telecom
+Li Shuirong & family,China,True,Manufacturing
+Lin Shu-hong,Taiwan,True,Manufacturing
+Qi Shi & family,China,True,Technology
+Yao Liangsong,China,True,Manufacturing
+Zhang Congyuan,Taiwan,True,Fashion & Retail
+Jean-Michel Besnier,France,False,Food & Beverage
+Marie Besnier Beauvalot,France,False,Food & Beverage
+David Geffen,United States,True,Media & Entertainment
+Robin Li,China,True,Technology
+Liu Yonghao & family,China,True,Service
+Henry Samueli,United States,True,Technology
+Reinhold Schmieding,United States,True,Healthcare
+Ivar Tollefsen,Norway,True,Real Estate
+Cao Renxian,China,True,Energy
+Hasmukh Chudgar & family,India,True,Healthcare
+Andrew Currie,United Kingdom,True,Manufacturing
+Joe Gebbia,United States,True,Technology
+Philip Ng,Singapore,False,Real Estate
+John Reece,United Kingdom,True,Manufacturing
+Leonard Stern,United States,False,Real Estate
+Joseph Tsai,Canada,True,Technology
+Zhong Huijuan,China,True,Healthcare
+Arthur Blank,United States,True,Sports
+Charles Butt,United States,False,Fashion & Retail
+Ding Shijia,China,True,Fashion & Retail
+"Paul Tudor Jones, II.",United States,True,Finance & Investments
+Henry Kravis,United States,True,Finance & Investments
+Zhang Yong,Singapore,True,Food & Beverage
+James Goodnight,United States,True,Technology
+Sri Prakash Lohia,Indonesia,False,Manufacturing
+Ma Jianrong,China,True,Fashion & Retail
+Robert Ng,Singapore,False,Real Estate
+Steven Rales,United States,True,Manufacturing
+Nassef Sawiris,Egypt,False,Construction & Engineering
+Harry Stine,United States,True,Food & Beverage
+Benu Gopal Bangur,India,False,Manufacturing
+Iskander Makhmudov,Russia,True,Metals & Mining
+Anders Holch Povlsen,Denmark,False,Fashion & Retail
+Enrique Razon Jr.,Philippines,False,Logistics
+Wang Laichun,Hong Kong,True,Technology
+Arthur Dantchik,United States,True,Finance & Investments
+Terry Gou,Taiwan,True,Technology
+Jeff Greene,United States,True,Real Estate
+Don Hankey,United States,True,Finance & Investments
+Richard Kinder,United States,True,Energy
+Guillaume Pousaz,Switzerland,True,Finance & Investments
+Takahisa Takahara,Japan,False,Fashion & Retail
+Zong Qinghou,China,True,Food & Beverage
+Judy Faulkner,United States,True,Technology
+Johann Graf,Austria,True,Gambling & Casinos
+Tamara Gustavson,United States,False,Service
+Liang Wengen,China,True,Manufacturing
+Frederik Paulsen,Sweden,False,Healthcare
+Wee Cho Yaw,Singapore,False,Finance & Investments
+Zhang Hejun,China,True,Manufacturing
+Marc Benioff,United States,True,Technology
+Dmitri Bukhman,Israel,True,Media & Entertainment
+Igor Bukhman,Israel,True,Media & Entertainment
+Jack Dangermond,United States,True,Technology
+Ashwin Dani & family,India,False,Manufacturing
+Ralph Lauren,United States,True,Fashion & Retail
+Law Kar Po,Hong Kong,False,Real Estate
+Rohiqa Cyrus Mistry,India,False,Diversified
+Shapoor Mistry,Ireland,False,Diversified
+J. Christopher Reyes,United States,True,Food & Beverage
+Jude Reyes,United States,True,Food & Beverage
+Don Vultaggio & family,United States,True,Food & Beverage
+Alejandro Bailleres Gual & family,Mexico,False,Diversified
+Edythe Broad & family,United States,False,Diversified
+Pauline MacMillan Keinath,United States,False,Food & Beverage
+Philippe Laffont,United States,True,Finance & Investments
+Liu Jincheng & family,China,True,Technology
+Igor Olenicoff,United States,True,Real Estate
+Sandra Ortega Mera,Spain,False,Fashion & Retail
+Ronda Stryker,United States,False,Healthcare
+Dannine Avara,United States,False,Energy
+Silvio Berlusconi & family,Italy,True,Diversified
+Denise Coates,United Kingdom,True,Gambling & Casinos
+Scott Duncan,United States,False,Energy
+Milane Frantz,United States,False,Energy
+"Edward Johnson, IV.",United States,False,Finance & Investments
+Yuri Milner,Israel,True,Finance & Investments
+Gordon Moore,United States,True,Technology
+John Overdeck,United States,True,Finance & Investments
+David Siegel,United States,True,Finance & Investments
+Viktor Vekselberg,Russia,True,Diversified
+Wang Laisheng,Hong Kong,True,Technology
+Randa Duncan Williams,United States,False,Energy
+Ken Fisher,United States,True,Finance & Investments
+Christopher Hohn,United Kingdom,True,Finance & Investments
+Kjeld Kirk Kristiansen,Denmark,False,Manufacturing
+Sofie Kirk Kristiansen,Denmark,False,Manufacturing
+Thomas Kirk Kristiansen,Denmark,False,Manufacturing
+Massimiliana Landini Aleotti & family,Italy,False,Healthcare
+Li Ping,Hong Kong,True,Automotive
+Lin Jianhua,China,True,Manufacturing
+Magdalena Martullo-Blocher,Switzerland,False,Manufacturing
+Xavier Niel,France,True,Telecom
+Terrence Pegula,United States,True,Energy
+"Edward Roski, Jr.",United States,False,Real Estate
+John A. Sobrato & family,United States,True,Real Estate
+George Soros,United States,True,Finance & Investments
+David Sun,United States,True,Technology
+Agnete Kirk Thinggaard,Denmark,False,Manufacturing
+John Tu,United States,True,Technology
+Xu Shihui,China,True,Food & Beverage
+Rahel Blocher,Switzerland,False,Manufacturing
+Bubba Cathy,United States,False,Food & Beverage
+Dan Cathy,United States,False,Food & Beverage
+Trudy Cathy White,United States,False,Food & Beverage
+Bruce Kovner,United States,True,Finance & Investments
+"Henry Nicholas, III.",United States,True,Technology
+Nadia Thiele,Germany,False,Finance & Investments
+David Bonderman,United States,True,Finance & Investments
+Melinda French Gates,United States,False,Technology
+Nathan Kirsh,Eswatini (Swaziland),True,Fashion & Retail
+Annette Lerner & family,United States,False,Real Estate
+David Reuben,United Kingdom,True,Real Estate
+Simon Reuben,United Kingdom,True,Diversified
+Radovan Vitek,Czech Republic,True,Real Estate
+Carl Bennet,Sweden,True,Finance & Investments
+Stephen Bisciotti,United States,True,Sports
+Stanley Druckenmiller,United States,True,Finance & Investments
+Jian Jun,China,True,Healthcare
+Alexei Kuzmichev,Russia,True,Energy
+Dmitry Rybolovlev & family,Russia,True,Manufacturing
+Luis Carlos Sarmiento,Colombia,True,Finance & Investments
+Dennis Washington,United States,True,Logistics
+Anthony Bamford & family,United Kingdom,False,Construction & Engineering
+Gao Jifan & family,China,True,Energy
+John Grayken,Ireland,True,Finance & Investments
+Alain Merieux & family,France,False,Healthcare
+Wang Yusuo & family,China,True,Energy
+Stef Wertheimer & family,Israel,True,Manufacturing
+Maria Asuncion Aramburuzabala & family,Mexico,False,Food & Beverage
+Gustaf Douglas,Sweden,True,Diversified
+Frits Goldschmeding,Netherlands,True,Service
+Lin Muqin & family,China,True,Food & Beverage
+Ruan Liping,Hong Kong,True,Manufacturing
+Ruan Xueping,Hong Kong,True,Manufacturing
+Michal Solowow,Poland,True,Finance & Investments
+Mike Adenuga,Nigeria,True,Diversified
+Tom Gores,United States,True,Finance & Investments
+Michael Herz,Germany,False,Fashion & Retail
+Wolfgang Herz,Germany,False,Fashion & Retail
+Michael Kadoorie,Hong Kong,False,Energy
+Sunil Mittal,India,True,Telecom
+Zhou Qunfei,Hong Kong,True,Technology
+Alexander Abramov,Russia,True,Metals & Mining
+Rene Benko,Austria,True,Real Estate
+Neil Bluhm,United States,True,Real Estate
+Alain Bouchard,Canada,True,Fashion & Retail
+Jay Chaudhry,United States,True,Technology
+Gopikishan Damani,India,True,Fashion & Retail
+Sumet Jiaravanon,Thailand,False,Diversified
+Joe Lewis,United Kingdom,True,Finance & Investments
+Frank Lowy,Australia,True,Finance & Investments
+Michael Milken,United States,True,Finance & Investments
+David Steward,United States,True,Technology
+Les Wexner & family,United States,True,Fashion & Retail
+Cai Kui,China,True,Real Estate
+Jaran Chiaravanont,Thailand,False,Diversified
+Andreas Halvorsen,Norway,True,Finance & Investments
+Antony Ressler,United States,True,Finance & Investments
+Tsai Eng-meng,Taiwan,False,Food & Beverage
+Josh Harris,United States,True,Finance & Investments
+Niels Peter Louis-Hansen,Denmark,False,Healthcare
+Patrick Soon-Shiong,United States,True,Healthcare
+Rinat Akhmetov,Ukraine,True,Metals & Mining
+John Brown,United States,True,Healthcare
+Clive Calder,United Kingdom,True,Media & Entertainment
+Arthur Irving,Canada,False,Energy
+Fredrik Lundberg,Sweden,False,Real Estate
+Thomas Schmidheiny,Switzerland,False,Construction & Engineering
+Helmut Sohmen,Austria,False,Logistics
+Daniel Ziff,United States,False,Finance & Investments
+Dirk Ziff,United States,False,Finance & Investments
+Robert Ziff,United States,False,Finance & Investments
+Maria Angelicoussis,Greece,False,Logistics
+Ray Lee Hunt,United States,False,Energy
+Lai Meisong,China,True,Logistics
+Vikram Lal & family,India,False,Automotive
+Ken Langone,United States,True,Finance & Investments
+Li Ge,United States,True,Healthcare
+Karen Pritzker,United States,False,Finance & Investments
+Robert Rowling,United States,False,Service
+Teddy Sagi,Israel,True,Gambling & Casinos
+Seo Jung-jin,South Korea,True,Healthcare
+Wu Jianshu,Hong Kong,True,Automotive
+Micky Arison,United States,False,Service
+James Chambers,United States,False,Media & Entertainment
+Pierre Chen,Taiwan,True,Technology
+John Collison,Ireland,True,Technology
+Patrick Collison,Ireland,True,Technology
+Archie Aldis Emmerson & family,United States,True,Manufacturing
+Piero Ferrari,Italy,False,Automotive
+Dan Friedkin,United States,False,Automotive
+James Irving,Canada,False,Diversified
+Jiang Weiping & family,China,True,Manufacturing
+Wolfgang Marguerre & family,Germany,True,Healthcare
+Ludwig Merckle,Germany,False,Finance & Investments
+Mitchell Rales,United States,True,Manufacturing
+Katharine Rayner,United States,False,Media & Entertainment
+Jean Salata,Chile,True,Finance & Investments
+Paul Singer,United States,True,Finance & Investments
+Sergio Stevanato & family,Italy,True,Healthcare
+Margaretta Taylor,United States,False,Media & Entertainment
+Richard White,Australia,True,Technology
+Zhao Yan,China,True,Diversified
+Patrizio Bertelli,Italy,True,Fashion & Retail
+Mahendra Choksi & family,India,False,Manufacturing
+Mat Ishbia,United States,False,Finance & Investments
+Leo Koguan,United States,True,Technology
+Miao Hangen,China,True,Diversified
+Michael Pieper,Switzerland,True,Manufacturing
+Miuccia Prada,Italy,False,Fashion & Retail
+Wolfgang Reimann,Germany,False,Fashion & Retail
+Matthias Reimann-Andersen,Germany,False,Fashion & Retail
+Stefan Reimann-Andersen,Germany,False,Fashion & Retail
+Renate Reimann-Haas,Germany,False,Fashion & Retail
+Todd Boehly,United States,True,Finance & Investments
+Rick Caruso,United States,True,Real Estate
+Ibrahim Erdemoglu,Turkey,True,Manufacturing
+Elizabeth Johnson,United States,False,Finance & Investments
+Douglas Leone,United States,True,Finance & Investments
+Prajogo Pangestu,Indonesia,False,Diversified
+Thomas Pritzker,United States,False,Finance & Investments
+Lynda Resnick,United States,True,Food & Beverage
+Stewart Resnick,United States,True,Food & Beverage
+Gary Rollins,United States,False,Service
+Mark Walter,United States,True,Finance & Investments
+Ronald Wanek,United States,True,Manufacturing
+Erich Wesjohann & family,Germany,True,Food & Beverage
+M.A. Yusuff Ali,India,True,Fashion & Retail
+Alexandre Behring,Brazil,True,Finance & Investments
+Cheng Xue,China,True,Food & Beverage
+Robert Faith,United States,True,Real Estate
+Gao Dekang & family,China,True,Fashion & Retail
+Micky Jagtiani,India,False,Fashion & Retail
+Ananda Krishnan,Malaysia,True,Telecom
+Barry Lam,Taiwan,True,Technology
+"Robert Rich, Jr.",United States,False,Food & Beverage
+Mark Scheinberg,Canada,True,Gambling & Casinos
+Charles Simonyi,United States,True,Technology
+Ty Warner,United States,True,Real Estate
+Sam Zell,United States,True,Real Estate
+Fang Wei,China,True,Manufacturing
+Rekha Jhunjhunwala,India,False,Finance & Investments
+Charles B. Johnson,United States,False,Finance & Investments
+Kwon Hyuk-bin,South Korea,True,Media & Entertainment
+Sami Mnaymneh,United States,True,Finance & Investments
+Kjell Inge Rokke,Norway,True,Logistics
+Tony Tamer,United States,True,Finance & Investments
+Tse Ping & family,China,True,Healthcare
+Romesh T. Wadhwani,United States,True,Technology
+Hansjoerg Wyss,Switzerland,True,Healthcare
+Denise York & family,United States,False,Sports
+Ron Baron,United States,True,Finance & Investments
+Robert Bass,United States,False,Energy
+Dona Bertarelli,Switzerland,False,Healthcare
+Alexander Gerko,United Kingdom,True,Finance & Investments
+Martin Haefner,Switzerland,False,Technology
+"Robert Hale, Jr.",United States,True,Telecom
+Viktor Kharitonin,Russia,True,Healthcare
+Kim Beom-su,South Korea,True,Technology
+Jane Lauder,United States,False,Fashion & Retail
+Michel Leclercq & family,France,False,Fashion & Retail
+George Lucas,United States,True,Media & Entertainment
+Janice McNair,United States,False,Sports
+Ugur Sahin,Germany,True,Healthcare
+Alexandra Schoerghuber & family,Germany,False,Real Estate
+Thomas Straumann,Switzerland,False,Healthcare
+Murat Ulker,Turkey,False,Food & Beverage
+Chip Wilson,Canada,True,Fashion & Retail
+Zhu Yan & family,China,False,Real Estate
+Jim Davis & family,United States,True,Manufacturing
+Murali Divi & family,India,True,Healthcare
+Dagmar Dolby & family,United States,False,Technology
+Marcos Galperin,Argentina,True,Technology
+Tom Golisano,United States,True,Service
+Jonathan Gray,United States,True,Finance & Investments
+Bidzina Ivanishvili,Georgia,True,Finance & Investments
+Lim Hariyanto Wijaya Sarwono,Indonesia,True,Metals & Mining
+Rudolf Maag,Switzerland,True,Healthcare
+Emanuele (Lino) Saputo & family,Canada,False,Food & Beverage
+Mark Shoen,United States,False,Automotive
+Dan Snyder,United States,True,Sports
+Chairul Tanjung,Indonesia,True,Diversified
+Kelcy Warren,United States,True,Energy
+Zhang Tao,China,True,Fashion & Retail
+Michael Ashley,United Kingdom,True,Fashion & Retail
+Tomasz Biernacki,Poland,True,Fashion & Retail
+Bernard Broermann,Germany,True,Healthcare
+Jimmy Haslam,United States,False,Fashion & Retail
+H. Fisk Johnson,United States,False,Manufacturing
+S. Curtis Johnson,United States,False,Manufacturing
+Helen Johnson-Leipold,United States,False,Manufacturing
+Vinod Khosla,United States,True,Technology
+Thai Lee,United States,True,Technology
+Winifred J. Marquart,United States,False,Manufacturing
+Pankaj Patel,India,False,Healthcare
+Horst Julius Pudwill,Germany,True,Manufacturing
+Yu Yong,China,True,Finance & Investments
+Maria Fernanda Amorim & family,Portugal,False,Diversified
+Gayle Benson,United States,False,Sports
+Jason Chang,Singapore,True,Technology
+Ali Erdemoglu,Turkey,True,Manufacturing
+Andre Esteves,Brazil,True,Finance & Investments
+Carlo Fidani,Canada,False,Real Estate
+Hong Ra-hee,South Korea,False,Technology
+Li Gaiteng,China,True,Manufacturing
+Thomas Secunda,United States,True,Media & Entertainment
+Zuowen Song,China,True,Diversified
+Tim Sweeney,United States,True,Media & Entertainment
+Bert Beveridge,United States,True,Food & Beverage
+Mark Cuban,United States,True,Media & Entertainment
+Charles Dolan & family,United States,True,Media & Entertainment
+Jack Dorsey,United States,True,Technology
+Fan Hongwei,China,True,Energy
+Vladimir Kim,Kazakhstan,True,Metals & Mining
+"Andre Koo, Sr.",Taiwan,False,Finance & Investments
+Ronald Lauder,United States,False,Fashion & Retail
+Li Chunan,China,True,Manufacturing
+Forrest Li,Singapore,True,Media & Entertainment
+Richard Li,Hong Kong,False,Telecom
+Doug Meijer & family,United States,False,Fashion & Retail
+Hank Meijer & family,United States,False,Fashion & Retail
+Mark Meijer & family,United States,False,Fashion & Retail
+Issad Rebrab & family,Algeria,True,Food & Beverage
+Fred Smith,United States,True,Logistics
+Barry Sternlicht,United States,True,Finance & Investments
+Maximilian Viessmann,Germany,False,Manufacturing
+Russ Weiner,United States,True,Food & Beverage
+Xue Min,China,True,Healthcare
+Juan Domingo Beckmann Legorreta & family,Mexico,False,Food & Beverage
+Dietmar Hopp & family,Germany,True,Technology
+Jiang Bin,China,True,Technology
+Joseph Liemandt,United States,True,Technology
+Theo Mueller,Germany,False,Food & Beverage
+N.R. Narayana Murthy,India,True,Technology
+Odd Reitan & family,Norway,False,Fashion & Retail
+Marc Rowan,United States,True,Finance & Investments
+Hussain Sajwani,United Arab Emirates,True,Real Estate
+David Velez & family,Colombia,True,Finance & Investments
+Xu Jinfu,China,True,Manufacturing
+Samuel Yin,Taiwan,False,Diversified
+You Xiaoping & family,China,True,Manufacturing
+Stéphane Bancel,France,True,Healthcare
+Margot Birmingham Perot,United States,False,Technology
+Neal Blue & family,United States,True,Manufacturing
+Jim Davis,United States,True,Service
+Rafael Del Pino,Spain,False,Construction & Engineering
+Peter Grogg,Switzerland,True,Healthcare
+Christian Haub,Germany,False,Fashion & Retail
+Mangal Prabhat Lodha,India,True,Real Estate
+Jeffrey Lurie & family,United States,False,Sports
+Joe Mansueto,United States,True,Finance & Investments
+Qian Dongqi & family,China,True,Manufacturing
+Mikhail Shelkov,Russia,True,Metals & Mining
+Patrick Drahi,France,True,Telecom
+Behdad Eghbali,United States,True,Finance & Investments
+Juan Carlos Escotet,Venezuela,True,Finance & Investments
+Jose E. Feliciano,United States,True,Finance & Investments
+Hu Kaijun,China,True,Healthcare
+Johnelle Hunt,United States,True,Logistics
+Marian Ilitch,United States,True,Food & Beverage
+Daryl Katz,Canada,True,Diversified
+Andrei Kozitsyn,Russia,True,Metals & Mining
+Timur Kulibaev,Kazakhstan,True,Finance & Investments
+Dinara Kulibaeva,Kazakhstan,False,Finance & Investments
+Ian Livingstone,United Kingdom,True,Real Estate
+Richard Livingstone,United Kingdom,True,Real Estate
+Gwendolyn Sontheim Meyer,United States,False,Food & Beverage
+Jay Paul,United States,True,Real Estate
+Pham Nhat Vuong,Vietnam,True,Diversified
+Jon Stryker,United States,False,Healthcare
+Daniel Tsai,Taiwan,False,Finance & Investments
+Richard Tsai,Taiwan,False,Finance & Investments
+Frank Wang,China,True,Technology
+Wang Junshi & family,China,True,Manufacturing
+Wang Wenjing,China,True,Technology
+Herbert Wertheim,United States,True,Finance & Investments
+Shari Arison,Israel,False,Service
+Pyotr Aven,Russia,True,Finance & Investments
+Chan Laiwa & family,China,True,Real Estate
+Chen Hua,China,True,Real Estate
+Thomas Hagen,United States,False,Finance & Investments
+"Rupert Johnson, Jr.",United States,False,Finance & Investments
+Dewi Kam,Indonesia,True,Energy
+Min Kao & family,United States,True,Technology
+Marc Ladreit de Lacharriere,France,True,Finance & Investments
+Eric Lefkofsky,United States,True,Technology
+Lin Bin,United States,True,Technology
+Lin Li,China,True,Finance & Investments
+Michael Moritz,United States,True,Technology
+Jean (Gigi) Pritzker,United States,False,Service
+E. Joe Shoen,United States,False,Automotive
+Jeff Skoll,United States,True,Technology
+Lynsi Snyder,United States,False,Food & Beverage
+Djoko Susanto,Indonesia,True,Fashion & Retail
+Tahir & family,Indonesia,True,Diversified
+Peter Thiel,United States,True,Finance & Investments
+Andrej Babis,Czech Republic,True,Food & Beverage
+Danielle Bellon & family,France,False,Service
+Hubert Burda,Germany,False,Media & Entertainment
+Nick Caporella,United States,True,Food & Beverage
+John Catsimatidis,United States,True,Energy
+Scott Cook,United States,True,Technology
+Luca Garavoglia,Italy,False,Food & Beverage
+Antti Herlin,Finland,False,Manufacturing
+Hong Jie,China,True,Manufacturing
+"Jeremy Jacobs, Sr. & family",United States,False,Service
+Igor Kesaev,Russia,True,Fashion & Retail
+Mary Alice Dorrance Malone,United States,False,Food & Beverage
+Joao Moreira Salles,Brazil,False,Diversified
+Walther Moreira Salles Junior,Brazil,False,Finance & Investments
+Arturo Moreno,United States,True,Sports
+Peter Spuhler,Switzerland,True,Manufacturing
+Donald Sterling,United States,True,Real Estate
+Kerry Stokes,Australia,True,Diversified
+Ken Xie,United States,True,Technology
+Liangzhi Xie & family,China,True,Healthcare
+Sid Bass,United States,False,Energy
+Ben Chestnut,United States,True,Technology
+Elisabeth DeLuca & family,United States,False,Food & Beverage
+Guangchang Guo,China,True,Diversified
+Vinod Rai Gupta,India,False,Manufacturing
+John Henry,United States,True,Sports
+Travis Kalanick,United States,True,Technology
+Koon Poh Keong,Malaysia,True,Manufacturing
+Dan Kurzius,United States,True,Technology
+Paul Lee,United States,True,Manufacturing
+Tobi Lutke,Canada,True,Technology
+Gail Miller,United States,True,Automotive
+Rajan Mittal,India,False,Telecom
+Rakesh Mittal,India,False,Telecom
+Isaac Perlmutter,United States,True,Media & Entertainment
+"Bernard Saul, II.",United States,False,Finance & Investments
+Shaul Shani,Israel,True,Telecom
+Steven Spielberg,United States,True,Media & Entertainment
+Jerzy Starak,Poland,True,Healthcare
+Torbjorn Tornqvist,Sweden,True,Energy
+Rufino Vigil Gonzalez,Mexico,True,Metals & Mining
+Zhang Daocai,China,True,Diversified
+Juergen Blickle,Germany,False,Manufacturing
+"Austen Cargill, II.",United States,False,Food & Beverage
+"James Cargill, II.",United States,False,Food & Beverage
+Vanich Chaiyawan,Thailand,True,Finance & Investments
+Chen Dongsheng,China,True,Finance & Investments
+Mong-Koo Chung,South Korea,False,Automotive
+Kenneth Dart,Belize,False,Finance & Investments
+Giuseppe De'Longhi & family,Italy,False,Fashion & Retail
+Guenther Fielmann & family,Germany,True,Healthcare
+W. Herbert Hunt,United States,False,Energy
+James Irsay,United States,False,Sports
+Somurai Jaruphnit,Thailand,False,Diversified
+Marianne Liebmann,United States,False,Food & Beverage
+Jorge Moll Filho & family,Brazil,True,Healthcare
+Fernando Roberto Moreira Salles,Brazil,False,Diversified
+Pedro Moreira Salles,Brazil,False,Diversified
+Gabe Newell,United States,True,Gambling & Casinos
+Alfred Oetker,Germany,False,Fashion & Retail
+Carl Ferdinand Oetker,Germany,False,Fashion & Retail
+Julia Oetker,Germany,False,Fashion & Retail
+Ruan Hongliang & family,China,True,Manufacturing
+Mark Stevens,United States,True,Finance & Investments
+Tsai Hong-tu,Taiwan,False,Finance & Investments
+Nusli Wadia,India,False,Food & Beverage
+Wu Yiling,China,True,Healthcare
+Yu Renrong,China,True,Manufacturing
+Zhu Baoguo & family,China,True,Healthcare
+Rahul Bhatia,India,False,Service
+Francesco Gaetano Caltagirone,Italy,True,Construction & Engineering
+Barry Diller,United States,True,Media & Entertainment
+Wesley Edens,United States,True,Finance & Investments
+Stephen Feinberg,United States,True,Finance & Investments
+Rakesh Gangwal,United States,True,Service
+Joseph Grendys,United States,True,Food & Beverage
+Martha Ingram & family,United States,False,Media & Entertainment
+Li Xiang,China,True,Automotive
+"H. Ross Perot, Jr.",United States,False,Real Estate
+Chandru Raheja,India,False,Real Estate
+Trevor Rees-Jones,United States,True,Energy
+Yasumitsu Shigeta,Japan,True,Telecom
+Su Qingcan,China,True,Healthcare
+Tsai Cheng-ta,Taiwan,False,Finance & Investments
+Steven Udvar-Hazy,United States,True,Service
+Elizabeth Uihlein,United States,True,Manufacturing
+Richard Uihlein,United States,True,Manufacturing
+Hayes Barnard,United States,True,Finance & Investments
+William Berkley,United States,True,Finance & Investments
+Charles Cohen,United States,False,Real Estate
+Yakir Gabay,Cyprus,True,Real Estate
+Huang Li,China,True,Technology
+Brad Jacobs,United States,True,Logistics
+Ji Qi,China,True,Real Estate
+Jason Jiang,Singapore,True,Media & Entertainment
+Jim Kavanaugh,United States,True,Technology
+Richard LeFrak & family,United States,False,Real Estate
+Mikhail Lomtadze,Georgia,True,Finance & Investments
+Tom Morris,United Kingdom,True,Fashion & Retail
+Shigenobu Nagamori,Japan,True,Manufacturing
+Daniel Och,United States,True,Finance & Investments
+Horst Paulmann & family,Chile,True,Fashion & Retail
+Anthony Pritzker,United States,False,Service
+John Sall,United States,True,Technology
+Howard Schultz,United States,True,Food & Beverage
+Richard Schulze,United States,True,Fashion & Retail
+Yitzhak Tshuva,Israel,True,Real Estate
+Wang Yanqing & family,China,True,Manufacturing
+Rajiv Bajaj,India,False,Diversified
+Sanjiv Bajaj,India,False,Diversified
+Leonid Boguslavsky,Canada,True,Finance & Investments
+Jim Coulter,United States,True,Finance & Investments
+Nicolas D'Ieteren,Belgium,False,Automotive
+Beatriz Davila de Santo Domingo,Colombia,False,Food & Beverage
+Bob Gaglardi,Canada,True,Real Estate
+Jaime Gilinski Bacal,Colombia,False,Finance & Investments
+Pansy Ho,Hong Kong,False,Gambling & Casinos
+Alan Howard,United Kingdom,True,Finance & Investments
+Huang Yi,Hong Kong,True,Automotive
+Peter Kellogg,United States,False,Finance & Investments
+Vyacheslav Kim,Kazakhstan,True,Finance & Investments
+Josh Kushner,United States,True,Finance & Investments
+Samuel Tak Lee,Hong Kong,False,Real Estate
+Edwin Leong,Hong Kong,True,Real Estate
+"Stephen Mandel, Jr.",United States,True,Finance & Investments
+Mohamed Mansour,Egypt,True,Diversified
+Masahiro Miki,Japan,True,Fashion & Retail
+Masahiro Noda,Japan,True,Technology
+Cliff Obrecht,Australia,True,Technology
+Melanie Perkins,Australia,True,Technology
+J.B. Pritzker,United States,False,Finance & Investments
+Juan Roig,Spain,False,Fashion & Retail
+Jerry Speyer & family,United States,True,Real Estate
+Lawrence Stroll,Canada,True,Fashion & Retail
+Tung Chee Chen,Hong Kong,False,Logistics
+Wang Junlin,China,True,Food & Beverage
+Xia Zuoquan,China,True,Automotive
+Zeng Fangqin,China,True,Technology
+Zhang Jian,China,True,Manufacturing
+Rocco Basilico,Italy,False,Fashion & Retail
+Maurizio Billi,Brazil,False,Healthcare
+Fashu Chen,China,True,Finance & Investments
+Giuseppe Crippa & family,Italy,True,Manufacturing
+Daniel D'Aniello,United States,True,Finance & Investments
+Claudio Del Vecchio,Italy,False,Fashion & Retail
+Clemente Del Vecchio,Italy,False,Fashion & Retail
+Leonardo Maria Del Vecchio,Italy,False,Fashion & Retail
+Luca Del Vecchio,Italy,False,Fashion & Retail
+Marisa Del Vecchio,Italy,False,Fashion & Retail
+Paola Del Vecchio,Italy,False,Fashion & Retail
+Walter P.J. Droege,Germany,True,Finance & Investments
+Fan Daidi,China,True,Fashion & Retail
+Peter Gassner,United States,True,Technology
+Mikhail Gutseriev,Russia,True,Energy
+Patrick Lee,Hong Kong,True,Manufacturing
+Leng Youbin,China,True,Food & Beverage
+Daniel Loeb,United States,True,Finance & Investments
+Margarita Louis-Dreyfus & family,Switzerland,False,Food & Beverage
+Prasert Prasarttong-Osoth,Thailand,True,Healthcare
+Ira Rennert,United States,True,Finance & Investments
+Dirk Rossmann & family,Germany,True,Fashion & Retail
+Arkady Rotenberg,Russia,True,Construction & Engineering
+Remo Ruffini,Italy,True,Fashion & Retail
+Karin Sartorius-Herbst,Germany,False,Healthcare
+Vivek Chaand Sehgal,Australia,True,Automotive
+Scott Shleifer,United States,True,Finance & Investments
+Thomas Siebel,United States,True,Technology
+Wim van der Leegte & family,Netherlands,False,Manufacturing
+Xiao Yongming & family,China,True,Diversified
+Michael Xie,United States,True,Technology
+Yang Shaopeng,China,True,Logistics
+Nicoletta Zampillo,Italy,False,Fashion & Retail
+Barry Zekelman,Canada,False,Manufacturing
+William Ackman,United States,True,Finance & Investments
+Somphote Ahunai,Thailand,True,Energy
+Igor Altushkin,Russia,True,Metals & Mining
+Ramon Ang,Philippines,True,Food & Beverage
+Acharya Balkrishna,India,True,Food & Beverage
+Markus Blocher,Switzerland,False,Manufacturing
+Richard Branson,United Kingdom,True,Diversified
+Cho Jung-ho,South Korea,False,Finance & Investments
+Alessandra Garavoglia,Italy,False,Food & Beverage
+Laurence Graff & family,United Kingdom,True,Fashion & Retail
+"Amos Hostetter, Jr.",United States,True,Media & Entertainment
+Robert Johnson,United States,False,Sports
+Steven Klinsky,United States,True,Finance & Investments
+William Lauder,United States,False,Fashion & Retail
+John Middleton,United States,False,Food & Beverage
+Hiroshi Mikitani,Japan,True,Fashion & Retail
+Bob Parsons,United States,True,Technology
+J. Joe Ricketts & family,United States,True,Finance & Investments
+Herb Simon,United States,True,Real Estate
+Leena Tewari,India,False,Healthcare
+Stefan von Holtzbrinck,Germany,False,Media & Entertainment
+Hans Peter Wild,Switzerland,False,Food & Beverage
+Wu Guanjiang & family,China,True,Healthcare
+Yi Zheng,China,True,Technology
+Eric Yuan & family,United States,True,Technology
+Charles Zegar,United States,True,Media & Entertainment
+Mohed Altrad,France,True,Construction & Engineering
+John Arnold,United States,True,Finance & Investments
+Bill Austin,United States,True,Manufacturing
+Chen Shibin,China,True,Manufacturing
+Bennett Dorrance,United States,False,Food & Beverage
+Walter Faria,Brazil,True,Food & Beverage
+Walter Frey,Switzerland,False,Automotive
+Fu Liquan & family,China,True,Technology
+John Gandel,Australia,False,Real Estate
+Peter Gilgan,Canada,True,Construction & Engineering
+Kwek Leng Beng,Singapore,False,Diversified
+Pablo Legorreta,United States,True,Finance & Investments
+Arnon Milchan,Israel,True,Media & Entertainment
+Akio Nitori,Japan,True,Fashion & Retail
+Julio Ponce Lerou,Chile,True,Metals & Mining
+Rodger Riney & family,United States,True,Finance & Investments
+Phil Ruffin,United States,True,Diversified
+Naguib Sawiris,Egypt,False,Telecom
+Neil Shen,Hong Kong,True,Finance & Investments
+Gil Shwed,Israel,True,Technology
+Stephen Smith,Canada,True,Finance & Investments
+Nik Storonsky,United Kingdom,True,Finance & Investments
+Jeffrey Talpins,United States,True,Finance & Investments
+Carl Thoma,United States,True,Finance & Investments
+Todd Wanek,United States,False,Manufacturing
+Xue Hua,China,True,Manufacturing
+Takao Yasuda,Japan,True,Fashion & Retail
+Karen Virginia Beckmann Legoretta,Mexico,False,Food & Beverage
+Giuliana Benetton,Italy,True,Fashion & Retail
+Luciano Benetton,Italy,True,Fashion & Retail
+Arun Bharat Ram,India,False,Manufacturing
+Ron Burkle,United States,True,Finance & Investments
+Chen Kaixuan,China,True,Manufacturing
+Brunello Cucinelli & family,Italy,True,Fashion & Retail
+Antonio Del Valle Ruiz & family,Mexico,True,Manufacturing
+Gustavo Denegri & family,Italy,True,Healthcare
+Dong Jinggui,China,True,Automotive
+Charles Ergen,United States,True,Media & Entertainment
+David Filo,United States,True,Technology
+Lindsay Fox,Australia,True,Logistics
+Sergei Galitsky,Russia,True,Fashion & Retail
+Senapathy Gopalakrishnan,India,True,Technology
+Luciano Hang,Brazil,True,Fashion & Retail
+Michael Hintze,Australia,True,Finance & Investments
+Hu Baifan,China,True,Healthcare
+Hamilton James & family,United States,True,Finance & Investments
+Lee Boo-jin,South Korea,False,Technology
+Li Liangbin,China,True,Manufacturing
+Liang Feng,China,True,Manufacturing
+Samir Mehta,India,False,Healthcare
+Sudhir Mehta,India,False,Healthcare
+Aristotelis Mistakidis,Greece,True,Metals & Mining
+Geoffrey Palmer,United States,False,Real Estate
+Roger Penske,United States,True,Automotive
+Ravi Pillai,India,True,Construction & Engineering
+David Rubenstein,United States,True,Finance & Investments
+Hilton Schlosberg,United Kingdom,True,Food & Beverage
+Klaus-Peter Schulenberg,Germany,True,Service
+Lynn Schusterman & family,United States,False,Energy
+Isabella Seràgnoli,Italy,False,Manufacturing
+Shen Guojun,China,True,Fashion & Retail
+Warren Stephens,United States,False,Finance & Investments
+Pat Stryker,United States,False,Healthcare
+Roman Trotsenko,Russia,True,Logistics
+Harald Tschira,Germany,False,Technology
+Udo Tschira,Germany,False,Technology
+Vincent Viola,United States,True,Finance & Investments
+Wu Shaoxun,China,True,Food & Beverage
+Steve Wynn,United States,True,Gambling & Casinos
+Jon Yarbrough,United States,True,Gambling & Casinos
+Zhou Bajin,China,True,Manufacturing
+Cho Tak Wong,Hong Kong,True,Manufacturing
+John Coates,United Kingdom,True,Gambling & Casinos
+Ryan Cohen,Canada,True,Finance & Investments
+Deng Wen,China,True,Food & Beverage
+Gurbachan Singh Dhingra,India,True,Manufacturing
+Kuldip Singh Dhingra,India,True,Manufacturing
+Martin Ebner,Switzerland,True,Finance & Investments
+Charles Edelstenne,France,True,Manufacturing
+Sergei Gordeev,Russia,True,Real Estate
+Jeff T. Green,United States,True,Media & Entertainment
+Reed Hastings,United States,True,Technology
+Bertil Hult,Sweden,True,Service
+Miguel Krigsner,Brazil,True,Fashion & Retail
+Kuok Khoon Hong,Singapore,False,Manufacturing
+Aerin Lauder,United States,False,Fashion & Retail
+Sheldon Lavin,United States,True,Food & Beverage
+Yin Yee Lee,China,True,Manufacturing
+Vladimir Litvinenko & family,Russia,True,Manufacturing
+Daniel Mate,Spain,True,Metals & Mining
+Ravi Modi,India,True,Fashion & Retail
+Farhad Moshiri,United Kingdom,True,Diversified
+Jonathan Nelson,United States,True,Finance & Investments
+Or Wai Sheun,Hong Kong,True,Real Estate
+Katharina Otto-Bernstein,Germany,False,Real Estate
+Sergei Popov,Russia,True,Finance & Investments
+Penny Pritzker,United States,False,Finance & Investments
+Theodore Rachmat,Indonesia,False,Diversified
+Renzo Rosso & family,Italy,True,Fashion & Retail
+Friede Springer,Germany,False,Media & Entertainment
+Rita Tong Liu,Hong Kong,True,Real Estate
+Timur Turlov,Kazakhstan,True,Finance & Investments
+Frank VanderSloot,United States,True,Fashion & Retail
+Yoo Jung-hyun,South Korea,True,Media & Entertainment
+Abdulla bin Ahmad Al Ghurair & family,United Arab Emirates,False,Diversified
+Semahat Sevim Arsel,Turkey,False,Diversified
+Nicolas Berggruen,United States,False,Real Estate
+George Bishop,United States,True,Energy
+Norman Braman,United States,True,Automotive
+Eva Maria Bucher-Haefner,Switzerland,False,Technology
+Cai Dongchen,China,True,Healthcare
+Jean-Pierre Cayard,France,False,Food & Beverage
+Chan Tan Ching-fen,Hong Kong,False,Real Estate
+Todd Christopher,United States,True,Fashion & Retail
+Mang Yee Chu & family,China,True,Real Estate
+"William Conway, Jr.",United States,True,Finance & Investments
+Jean Coutu & family,Canada,True,Fashion & Retail
+Catheline Perier D'Ieteren,Belgium,False,Automotive
+"Edward DeBartolo, Jr.",United States,False,Real Estate
+Stephen Deckoff,United States,True,Finance & Investments
+Feng Hailiang,China,True,Metals & Mining
+"Ernest Garcia, II.",United States,True,Automotive
+Sam Goi,Singapore,True,Food & Beverage
+Carlos Hank Rhon,Mexico,False,Diversified
+Susan Carol Holland,Italy,False,Manufacturing
+Hui Ka Yan,China,True,Real Estate
+Vivek Jain,India,False,Manufacturing
+Friedrich Knapp,Germany,True,Fashion & Retail
+Egor Kulkov,Russia,True,Healthcare
+Lin Ming-hsiung,Taiwan,True,Fashion & Retail
+Lin Xiucheng & family,China,True,Technology
+Harsh Mariwala,India,False,Food & Beverage
+Gilles Martin,France,True,Healthcare
+Maja Oeri,Switzerland,False,Healthcare
+John Paulson,United States,True,Finance & Investments
+Ajay Piramal,India,False,Healthcare
+Guanghe Qiu & family,China,True,Fashion & Retail
+Stephen Rubin,United Kingdom,False,Fashion & Retail
+Robert Sands,United States,False,Food & Beverage
+Erik Selin,Sweden,True,Real Estate
+Yonghong Shi & family,China,True,Food & Beverage
+Martua Sitorus,Indonesia,True,Manufacturing
+Guangxin Sun,China,True,Diversified
+Sukanto Tanoto,Indonesia,True,Diversified
+Sunny Varkey,India,False,Service
+Gang Ye,Singapore,True,Media & Entertainment
+Ye Xiaoping,China,True,Healthcare
+Lei Zhang,China,True,Finance & Investments
+Zhu Gongshan & family,China,True,Manufacturing
+Isak Andic & family,Spain,True,Fashion & Retail
+Alberto Bombassei,Italy,False,Automotive
+Cao Longxiang & family,China,True,Healthcare
+"Roy Carroll, II.",United States,True,Real Estate
+John Caudwell,United Kingdom,True,Telecom
+James Clark,United States,True,Technology
+Jacques D'Amours,Canada,True,Fashion & Retail
+John Paul DeJoria,United States,True,Fashion & Retail
+Bernard Ecclestone & family,United Kingdom,True,Sports
+Michael Federmann & family,Israel,True,Technology
+Kenneth Feld & family,United States,False,Media & Entertainment
+Gu Yuhua & family,China,True,Manufacturing
+Otto Happel,Germany,False,Construction & Engineering
+Gudrun Heine,Germany,False,Healthcare
+Donald Horton & family,United States,True,Real Estate
+Zarakh Iliev,Russia,True,Real Estate
+Ipek Kirac,Turkey,False,Diversified
+Lee Seo-hyun,South Korea,False,Technology
+Li Jianquan & family,Hong Kong,True,Healthcare
+Li Li,China,True,Healthcare
+Li Xiaohua & family,China,True,Manufacturing
+Liu Xiaodong,China,True,Manufacturing
+Martin Lorentzon,Sweden,True,Technology
+Ronald McAulay,Hong Kong,False,Energy
+Erwin Franz Mueller,Germany,True,Fashion & Retail
+Georg Nemetschek & family,Germany,True,Technology
+God Nisanov,Russia,True,Real Estate
+Vikas Oberoi,India,False,Real Estate
+Gregorio Perez Companc & family,Argentina,True,Energy
+Sebastian Piñera & family,Chile,True,Finance & Investments
+Arvind Poddar,India,False,Automotive
+Alexey Repik,Russia,True,Healthcare
+Haim Saban,United States,True,Media & Entertainment
+Rodney Sacks,United States,True,Food & Beverage
+Karthik Sarma,India,True,Finance & Investments
+Sybill Storz,Germany,False,Healthcare
+Daniel Sundheim,United States,True,Finance & Investments
+"William Wrigley, Jr.",United States,False,Food & Beverage
+Zhang Wenzhong,China,True,Fashion & Retail
+Zhou Jianping,China,True,Fashion & Retail
+Joy Alukkas,India,False,Fashion & Retail
+Kang An,China,True,Healthcare
+Garrett Camp,Canada,True,Technology
+Chen Lip Keong,Malaysia,True,Gambling & Casinos
+Choo Chong Ngen,Singapore,True,Real Estate
+Euisun Chung,South Korea,False,Automotive
+Smita Crishna-Godrej,India,False,Diversified
+Eleanor Butt Crook & family,United States,False,Fashion & Retail
+Du Jiangtao & family,China,True,Manufacturing
+Lorenzo Fertitta,United States,False,Sports
+Sebastian Glaser,Germany,False,Technology
+Adi Godrej,India,False,Diversified
+Jamshyd Godrej,India,False,Diversified
+Lee Yeow Chor,Malaysia,False,Real Estate
+Li Weiguo,China,True,Manufacturing
+Dmitry Mazepin,Russia,True,Manufacturing
+"Drayton McLane, Jr.",United States,False,Fashion & Retail
+Najib Mikati,Lebanon,True,Telecom
+Taha Mikati,Lebanon,True,Telecom
+Akira Mori & family,Japan,False,Real Estate
+Rishad Naoroji,India,False,Diversified
+Philip Niarchos,Greece,False,Diversified
+Nandan Nilekani,India,True,Technology
+Benjamin Otto,Germany,False,Fashion & Retail
+Maren Otto,Germany,False,Diversified
+Ranjan Pai,India,False,Service
+Madhukar Parekh,India,False,Manufacturing
+Sean Parker,United States,True,Technology
+Stewart Rahr,United States,False,Healthcare
+Su Hua,China,True,Media & Entertainment
+Sun Shoukuan,China,True,Manufacturing
+Tseng Cheng,Taiwan,False,Manufacturing
+Tung Chee Hwa,Hong Kong,False,Logistics
+Meg Whitman,United States,True,Technology
+Wong Luen Hei,China,True,Manufacturing
+Chenghai Ye & family,Hong Kong,True,Healthcare
+Zhu Xingming,China,True,Manufacturing
+Jose Joao Abdalla Filho,Brazil,False,Finance & Investments
+Juan Abello,Spain,False,Finance & Investments
+Suhail Bahwan,Oman,True,Diversified
+Madhur Bajaj,India,False,Diversified
+Niraj Bajaj,India,False,Diversified
+Shekhar Bajaj,India,False,Diversified
+Harindarpal Banga,India,True,Finance & Investments
+Ulrike Baro,Germany,False,Healthcare
+Anne Beaufour,France,False,Healthcare
+Henri Beaufour,France,False,Healthcare
+Andrei Bokarev,Russia,True,Manufacturing
+Jack Cowin,Australia,True,Food & Beverage
+Glenn Dubin,United States,True,Finance & Investments
+N. Murray Edwards,Canada,True,Energy
+"Frank Fertitta, III.",United States,False,Sports
+Abhay Firodia,India,False,Automotive
+Bruce Flatt,Canada,True,Finance & Investments
+Miguel Fluxa Rossello,Spain,False,Service
+Robert Friedland,United States,True,Metals & Mining
+Alexander Frolov,Russia,True,Metals & Mining
+Nadir Godrej,India,False,Diversified
+Maggie Hardy,United States,False,Service
+Nithin Kamath,India,True,Finance & Investments
+Samvel Karapetyan,Russia,True,Construction & Engineering
+Kei Hoi Pang,China,True,Real Estate
+Mustafa Rahmi Koc,Turkey,False,Diversified
+Yuri Kovalchuk & family,Russia,True,Finance & Investments
+Geoffrey Kwok,Hong Kong,False,Real Estate
+Jonathan Kwok,Hong Kong,False,Real Estate
+Hans Langer,Germany,True,Manufacturing
+Frank Laukien,United States,False,Manufacturing
+Maritsa Lazari & family,United Kingdom,True,Real Estate
+Angela Leong,Hong Kong,False,Real Estate
+Li Zhongchu,China,True,Technology
+Liang Yunchao,China,True,Food & Beverage
+Vincent McMahon,United States,True,Sports
+Patrice Motsepe,South Africa,True,Metals & Mining
+Denis O'Brien,Ireland,True,Telecom
+Timm Oberwelland,Germany,False,Food & Beverage
+Dan Olsson,Sweden,False,Diversified
+Yuji Otsuka,Japan,False,Technology
+Pan Dong,Canada,True,Fashion & Retail
+Karsanbhai Patel,India,True,Diversified
+Richard Peery,United States,True,Real Estate
+Gianfelice Rocca,Italy,False,Metals & Mining
+Paolo Rocca,Italy,False,Metals & Mining
+Wayne Rothbaum,United States,True,Healthcare
+Jeff Rothschild,United States,True,Technology
+Raj Sardana,United States,True,Technology
+Christiane Schoeller,Germany,False,Media & Entertainment
+Salil Singhal,India,False,Manufacturing
+Alexander Skorobogatko,Russia,True,Logistics
+Evan Spiegel,United States,True,Technology
+Glen Taylor,United States,True,Service
+Thomas Tull,United States,True,Media & Entertainment
+Bulat Utemuratov,Kazakhstan,True,Metals & Mining
+Gustav Magnar Witzoe,Norway,False,Food & Beverage
+Wong Man Li,Hong Kong,True,Manufacturing
+Guangming Wu,China,True,Healthcare
+Zhu Yi,China,True,Healthcare
+Ben Ashkenazy,United States,True,Real Estate
+Felix Baker,United States,True,Finance & Investments
+Julian Baker,United States,True,Finance & Investments
+David Baszucki,United States,True,Media & Entertainment
+Joesley Batista,Brazil,False,Food & Beverage
+Wesley Batista,Brazil,False,Food & Beverage
+Yvonne Bauer,Germany,False,Media & Entertainment
+Miriam Baumann-Blocher,Switzerland,False,Manufacturing
+Cen Junda,China,True,Healthcare
+Richard Chandler,New Zealand,False,Finance & Investments
+Chen Zhiping,China,True,Manufacturing
+Fernando Chico Pardo,Mexico,True,Service
+Ray Davis,United States,True,Energy
+Maria Del Pino,Spain,False,Construction & Engineering
+Deng Weiming & family,China,True,Manufacturing
+"John Dorrance, III.",Ireland,False,Food & Beverage
+Carl Douglas,Sweden,False,Diversified
+Eric Douglas,Sweden,False,Diversified
+Fiona Geminder,Australia,False,Manufacturing
+Stewart Horejsi & family,United States,True,Finance & Investments
+Hou Juncheng,China,True,Healthcare
+Zhenda Huang & family,China,True,Construction & Engineering
+Dmitry Kamenshchik,Russia,True,Service
+Alicia Koplowitz,Spain,False,Finance & Investments
+Adam Kwok,Hong Kong,False,Real Estate
+Henry Laufer,United States,True,Finance & Investments
+Louis Le Duff,France,True,Food & Beverage
+Mark Leonard & family,Canada,True,Technology
+Li Guoqiang,China,True,Automotive
+Li Yongxin,China,True,Service
+Peter Lim,Singapore,True,Finance & Investments
+Lu Weiding,China,False,Diversified
+Sergio Mantegazza,Switzerland,True,Service
+Hans Melchers,Netherlands,True,Finance & Investments
+C. Dean Metropoulos,United States,True,Food & Beverage
+Hans Georg Naeder,Germany,False,Manufacturing
+Falguni Nayar,India,True,Fashion & Retail
+James Packer,Australia,False,Finance & Investments
+Alexander Ponomarenko,Russia,True,Logistics
+Nicholas Pritzker,United States,False,Finance & Investments
+Alejandro Santo Domingo,United States,False,Food & Beverage
+Steven Sarowitz,United States,True,Technology
+Maria-Elisabeth Schaeffler-Thumann,Germany,False,Automotive
+Leonard Schleifer,United States,True,Healthcare
+Dieter Schnabel,Germany,False,Manufacturing
+Michael S. Smith,United States,True,Energy
+Julia Thiele-Schuerhoff,Germany,False,Manufacturing
+John Tyson & family,United States,False,Food & Beverage
+Anna Katharina Viessmann,Germany,False,Manufacturing
+Jurgen Wirtgen,Germany,False,Construction & Engineering
+Stefan Wirtgen,Germany,False,Construction & Engineering
+Zhao Lixin,China,True,Technology
+Hongyi Zhou,China,True,Technology
+S. Daniel Abraham,United States,True,Food & Beverage
+Bill Alfond,United States,False,Fashion & Retail
+Susan Alfond,United States,False,Fashion & Retail
+Ted Alfond,United States,False,Fashion & Retail
+Riley Bechtel & family,United States,False,Construction & Engineering
+Thor Bjorgolfsson,Iceland,True,Diversified
+Charles Bronfman,Canada,False,Food & Beverage
+Vivek Chand Burman,India,False,Food & Beverage
+Herb Chambers,United States,True,Automotive
+Cheng Yixiao,China,True,Media & Entertainment
+Andrew Cherng,United States,True,Food & Beverage
+Peggy Cherng,United States,True,Food & Beverage
+Leon G. Cooperman,United States,True,Finance & Investments
+Yadu Hari Dalmia & family,India,False,Manufacturing
+Henry Davis,United States,False,Food & Beverage
+Oleg Deripaska,Russia,True,Metals & Mining
+Sergey Dmitriev,Cyprus,True,Technology
+Joseph Edelman,United States,True,Finance & Investments
+Sandeep Engineer,India,True,Manufacturing
+Alceu Elias Feldmann & family,Brazil,True,Energy
+Serge Godin,Canada,True,Technology
+Alec Gores,United States,True,Finance & Investments
+Bill Haslam,United States,False,Fashion & Retail
+J. Tomilson Hill,United States,True,Finance & Investments
+Jay-Z,United States,True,Media & Entertainment
+Baba Kalyani,India,False,Automotive
+Saban Cemil Kazanci,Turkey,False,Energy
+Brad Kelley,United States,True,Real Estate
+Wolfgang Leitner,Austria,True,Construction & Engineering
+Li Hongxin & family,China,True,Manufacturing
+Lin Chen-hai,Taiwan,True,Real Estate
+Lu Yiwen,China,True,Fashion & Retail
+Prayudh Mahagitsiri,Thailand,False,Food & Beverage
+Willy Michel,Switzerland,True,Healthcare
+Lachhman Das Mittal,India,False,Automotive
+Bobby Murphy,United States,True,Technology
+Tomas Olivo Lopez,Spain,True,Real Estate
+Eren Ozmen,United States,True,Manufacturing
+John Pritzker,United States,False,Finance & Investments
+Qiu Minxiu,China,True,Technology
+Ferit Faik Sahenk,Turkey,False,Diversified
+Wenrong Shen,China,True,Metals & Mining
+Yuzhu Shi,China,True,Diversified
+Jeff Sutton,United States,True,Real Estate
+"Henry Sy, Jr.",Philippines,False,Diversified
+Andrew Tan,Philippines,True,Diversified
+Arvind Tiku,India,True,Energy
+Byron Trott,United States,True,Finance & Investments
+Donald Trump,United States,False,Real Estate
+Peter Unger,Germany,True,Automotive
+Roger Wang,United States,True,Fashion & Retail
+Oprah Winfrey,United States,True,Media & Entertainment
+Wu Zhigang & family,China,True,Food & Beverage
+Xie Weitong,Taiwan,True,Metals & Mining
+Ye Guofu,China,True,Fashion & Retail
+Brian Acton,United States,True,Technology
+Abdulla Al Futtaim & family,United Arab Emirates,False,Automotive
+Edward Bass,United States,False,Energy
+Koos Bekker,South Africa,True,Media & Entertainment
+Otto Philipp Braun,Germany,False,Healthcare
+Chen Tei-fu,Taiwan,True,Fashion & Retail
+Abilio dos Santos Diniz,Brazil,False,Fashion & Retail
+Marcel Erni,Switzerland,True,Finance & Investments
+Doris Fisher,United States,True,Fashion & Retail
+Gerald Ford,United States,True,Finance & Investments
+Bernard Fraisse & family,France,True,Healthcare
+Alfred Gantner,Switzerland,True,Finance & Investments
+Paul Gauselmann & family,Germany,True,Gambling & Casinos
+Mitchell Goldhar,Canada,True,Real Estate
+Peter Hargreaves,United Kingdom,True,Finance & Investments
+Xuande Hua & family,China,True,Healthcare
+Kwek Leng Kee,Singapore,False,Diversified
+Catherine Lozick,United States,False,Manufacturing
+Kalanithi Maran,India,True,Media & Entertainment
+Jed McCaleb,United States,True,Finance & Investments
+Fatih Ozmen,United States,True,Manufacturing
+Pan Laican,China,True,Food & Beverage
+Tor Peterson,United States,True,Metals & Mining
+Daniel Pritzker,United States,False,Finance & Investments
+Jinxing Qi,China,True,Real Estate
+Qiu Jianping & family,China,True,Manufacturing
+Rajan Raheja & family,India,False,Diversified
+Matthias Reinhart,Switzerland,True,Finance & Investments
+Arnout Schuijff,Netherlands,True,Technology
+Hans Sy,Philippines,False,Diversified
+Herbert Sy,Philippines,False,Diversified
+Lucio Tan,Philippines,True,Diversified
+Tsai Ming-kai,Taiwan,True,Technology
+Ted Turner,United States,False,Media & Entertainment
+David Walentas,United States,True,Real Estate
+Urs Wietlisbach,Switzerland,True,Finance & Investments
+Jerry Yang,United States,True,Technology
+Yang Jianliang & family,China,True,Manufacturing
+Yang Weidong & family,China,True,Manufacturing
+Mortimer Zuckerman,United States,True,Real Estate
+John Armitage,Ireland,True,Finance & Investments
+Lee Bass,United States,False,Energy
+John Bicket,United States,True,Technology
+Sanjit Biswas,United States,True,Technology
+Timothy Boyle,United States,True,Fashion & Retail
+Morris Chang,Taiwan,True,Technology
+Chao Teng-hsiung,Taiwan,True,Real Estate
+Samuel Chen,Taiwan,True,Finance & Investments
+Chu Lam Yiu,Hong Kong,True,Manufacturing
+K. Dinesh,India,True,Technology
+James Duff,United States,True,Diversified
+Thomas Duff,United States,True,Diversified
+Daniel Ek,Sweden,True,Technology
+John Fisher,United States,False,Fashion & Retail
+Georg Haub,Germany,False,Fashion & Retail
+Erman Ilicak,Turkey,True,Construction & Engineering
+Justin Ishbia,United States,False,Finance & Investments
+Long Jiang,China,True,Technology
+Bruce Karsh,United States,True,Finance & Investments
+Bom Kim,United States,True,Technology
+Jianping Lai,China,True,Food & Beverage
+Lam Kong,China,True,Healthcare
+Stephen Lansdown,Guernsey,True,Finance & Investments
+Kevin David Lehmann,Germany,False,Fashion & Retail
+Li Haiyan,China,True,Food & Beverage
+Hua Li,China,True,Finance & Investments
+Lim Kok Thay,Malaysia,False,Gambling & Casinos
+Kishore Mariwala,India,False,Food & Beverage
+Clayton Mathile,United States,True,Food & Beverage
+Mi Enhua,China,True,Fashion & Retail
+Vadim Moshkovich,Russia,True,Food & Beverage
+David Murdock,United States,True,Food & Beverage
+David Nahmad,Monaco,True,Fashion & Retail
+Lirio Parisotto,Brazil,True,Finance & Investments
+Augusto Perfetti,Italy,False,Food & Beverage
+Giorgio Perfetti,Italy,False,Food & Beverage
+Alberto Prada,Italy,False,Fashion & Retail
+Marina Prada,Italy,False,Fashion & Retail
+Filiz Sahenk,Turkey,False,Diversified
+Richard Sands,United States,False,Food & Beverage
+Stephan Schmidheiny,Switzerland,False,Finance & Investments
+Alberto Siccardi & family,Switzerland,False,Healthcare
+Stefan Soloviev,United States,False,Real Estate
+Tang Yiu,Hong Kong,True,Fashion & Retail
+Tian Ming,China,True,Technology
+T.Y. Tsai,Taiwan,False,Finance & Investments
+Jayshree Ullal,United States,True,Technology
+Georg von Opel,Switzerland,False,Finance & Investments
+Lang Walker,Australia,True,Real Estate
+Xicheng Wang & family,China,True,Manufacturing
+Wang Zhenhua,China,True,Real Estate
+Paul-Heinz Wesjohann & family,Germany,True,Food & Beverage
+Xie Bingkun & family,China,True,Fashion & Retail
+Xu Shugen,China,True,Manufacturing
+Christoph Zeller,Liechtenstein,False,Healthcare
+Zhang Jingzhang & family,China,True,Manufacturing
+George Argyros & family,United States,True,Real Estate
+Brian Armstrong,United States,True,Finance & Investments
+Albert Avdolyan,Russia,True,Energy
+Sezai Bacaksiz,Turkey,True,Diversified
+Aneel Bhusri,United States,True,Technology
+Brett Blundy,Australia,True,Fashion & Retail
+J. Hyatt Brown,United States,False,Finance & Investments
+Chen Jinxia,China,False,Finance & Investments
+Chen Xueli,China,True,Healthcare
+Dermot Desmond,Ireland,True,Finance & Investments
+Dong Wei,China,True,Healthcare
+Tom Ford,United States,True,Fashion & Retail
+Fu Guangming & family,China,True,Food & Beverage
+Noam Gottesman,United States,True,Finance & Investments
+Jeffrey Gundlach,United States,True,Finance & Investments
+Hao Hong,United States,True,Healthcare
+Shmuel Harlap,Israel,False,Automotive
+Hans-Werner Hector,Germany,True,Technology
+Lutz Mario Helmig & family,Germany,True,Healthcare
+Chulong Huang,Canada,True,Real Estate
+Thomas James,United States,False,Finance & Investments
+James Jannard,United States,True,Fashion & Retail
+Willis Johnson,United States,True,Automotive
+Lai Shixian,China,True,Fashion & Retail
+Chris Larsen,United States,True,Finance & Investments
+Solomon Lew,Australia,True,Fashion & Retail
+Liang Xinjun,Singapore,True,Diversified
+Harald Link,Thailand,False,Diversified
+Max Lytvyn,Canada,True,Technology
+Igor Makarov,Cyprus,True,Energy
+Howard Marks,United States,True,Finance & Investments
+Charles Munger,United States,True,Finance & Investments
+Adam Neumann,Israel,True,Real Estate
+Thi Phuong Thao Nguyen,Vietnam,True,Diversified
+Ni Yongpei & family,China,True,Food & Beverage
+Heloise Pratt,Australia,False,Manufacturing
+Qi Xiangdong,China,True,Technology
+Phillip T. (Terry) Ragon,United States,True,Technology
+Prathap Reddy,India,True,Healthcare
+Jerry Reinsdorf,United States,True,Sports
+Chad Richison,United States,True,Technology
+"Karl Scheufele, III. & family",Switzerland,True,Fashion & Retail
+Alice Schwartz,United States,True,Healthcare
+Alex Shevchenko,Canada,True,Technology
+Kavitark Ram Shriram,United States,True,Technology
+Jeffrey Soffer,United States,False,Real Estate
+William Stone,United States,True,Technology
+Henry Swieca,United States,True,Finance & Investments
+Harley Sy,Philippines,False,Diversified
+Teresita Sy-Coson,Philippines,False,Diversified
+Katsumi Tada,Japan,True,Real Estate
+Tang Jinkui & family,China,True,Manufacturing
+Tang Xiao'ou,Hong Kong,True,Technology
+Lottie Tham & family,Sweden,False,Fashion & Retail
+Shamsheer Vayalil,India,False,Healthcare
+Radha Vembu,India,False,Technology
+Wang Wenmo,China,True,Fashion & Retail
+Wang Zhenghua,China,True,Service
+David Wertheim,Israel,False,Food & Beverage
+Kai Wu,China,True,Energy
+Xu Yingzhuo,China,True,Food & Beverage
+Yeung Kin-man,Hong Kong,True,Manufacturing
+Huijiao Yu,China,True,Logistics
+Oren Zeev,Israel,True,Finance & Investments
+Clayton Zekelman,Canada,False,Manufacturing
+Zhao Fenggang,China,True,Energy
+Alex Beard,United Kingdom,True,Metals & Mining
+Travis Boersma,United States,True,Food & Beverage
+Martin Bouygues,France,False,Construction & Engineering
+Olivier Bouygues,France,False,Construction & Engineering
+William Boyd & family,United States,True,Gambling & Casinos
+Anand Burman,India,False,Food & Beverage
+Cao Ji,China,True,Manufacturing
+Bruce Cheng,Taiwan,True,Technology
+Chi Yufeng,China,False,Technology
+Daniel Chiu,Hong Kong,True,Energy
+Beda Diethelm,Switzerland,True,Healthcare
+Domenico Dolce,Italy,True,Fashion & Retail
+Ralph Dommermuth,Germany,True,Technology
+Georgi Domuschiev,Bulgaria,True,Diversified
+Kiril Domuschiev,Bulgaria,True,Diversified
+Bob Ell,Australia,True,Real Estate
+Paul Foster,United States,True,Energy
+Stefano Gabbana,Italy,True,Fashion & Retail
+Xingjiang Gao,China,True,Manufacturing
+Gordon Getty,United States,False,Energy
+Kamal Ghaffarian,United States,True,Energy
+Dennis Gillings,United Kingdom,True,Healthcare
+Harsh Goenka,India,False,Diversified
+Sanjiv Goenka,India,False,Diversified
+Jane Goldman,United States,False,Real Estate
+Stein Erik Hagen,Norway,True,Fashion & Retail
+Bahaa Hariri,Lebanon,False,Real Estate
+Hortensia Herrero,Spain,False,Fashion & Retail
+Douglas Hsu,Taiwan,False,Diversified
+Huang Min,China,True,Manufacturing
+Jared Isaacman,United States,True,Technology
+Eugene Kaspersky,Russia,True,Technology
+Artem Khachatryan,Russia,True,Fashion & Retail
+Andrei Krivenko,Russia,True,Food & Beverage
+Thomas Kwok,Hong Kong,False,Real Estate
+Lam Wai-ying,Hong Kong,True,Manufacturing
+Marc Lasry,United States,True,Finance & Investments
+Christian Latouche & family,France,True,Finance & Investments
+Theodore Leonsis,United States,True,Sports
+Lin Chang Su-O,Taiwan,False,Real Estate
+Liu Chengyu & family,China,True,Manufacturing
+Sergey Lomakin,Russia,True,Fashion & Retail
+Daniel Lubetzky,United States,True,Food & Beverage
+Melissa Ma,China,True,Technology
+Anand Mahindra,India,False,Diversified
+Rafique Malik,India,False,Fashion & Retail
+Katarina Martinson,Sweden,False,Diversified
+Kiran Mazumdar-Shaw,India,True,Healthcare
+Nirmal Minda,India,False,Automotive
+Mu Rongjun,China,True,Technology
+Eugene Murtagh,Ireland,True,Manufacturing
+Alexander Nesis,Russia,True,Finance & Investments
+Zugen Ni,China,True,Manufacturing
+Florentino Perez,Spain,True,Construction & Engineering
+Victor Pinchuk,Ukraine,True,Metals & Mining
+Leonid Radvinsky,United States,True,Technology
+Raveendran Byju,India,True,Technology
+P.P. Reddy,India,True,Construction & Engineering
+Richard Saghian,United States,True,Fashion & Retail
+Shi Yifeng,China,True,Healthcare
+Thaksin Shinawatra,Thailand,True,Finance & Investments
+Shu Ping,Singapore,True,Food & Beverage
+Timothy Springer,United States,True,Healthcare
+Venu Srinivasan,India,False,Automotive
+Edward Stack,United States,True,Fashion & Retail
+Sun Mengquan & family,China,True,Food & Beverage
+Alexander Svetakov,Russia,True,Finance & Investments
+Torsten Toeller,Germany,True,Fashion & Retail
+Barbara Tyson,United States,False,Food & Beverage
+Hamdi Ulukaya,Turkey,True,Food & Beverage
+Wang Linpeng,China,True,Construction & Engineering
+Wei Ing-Chou,Taiwan,True,Food & Beverage
+Wei Yin-Chun,Taiwan,True,Food & Beverage
+Wei Yin-Heng,Taiwan,True,Food & Beverage
+Wei Ying-Chiao,Taiwan,True,Food & Beverage
+Elaine Wynn,United States,True,Gambling & Casinos
+Xu Xudong & family,China,True,Automotive
+Michael Ying,Hong Kong,True,Fashion & Retail
+Yu Qibing & family,China,True,Manufacturing
+Yuan Fugen & family,China,True,Manufacturing
+Zhang Ning & family,Canada,True,Manufacturing
+Zhao Tao,Singapore,False,Healthcare
+Anu Aga,India,False,Construction & Engineering
+Mohamed Al Fayed,Egypt,True,Fashion & Retail
+Andrey Andreev,United Kingdom,True,Technology
+Michael Ashcroft,United Kingdom,True,Finance & Investments
+Pavel Baudis,Czech Republic,True,Technology
+Wilhelm Beier & family,Germany,True,Healthcare
+Cao Jianwei,China,True,Manufacturing
+Huwen Chen,China,True,Manufacturing
+Phongthep Chiaravanont,Thailand,False,Diversified
+Dou Zhenggang,China,True,Diversified
+Maria Franca Fissolo,Italy,False,Food & Beverage
+William Franke,United States,True,Diversified
+Mario Germano Giuliani,Switzerland,False,Healthcare
+Amy Goldman Fowler,United States,False,Real Estate
+John Hancock,Australia,False,Metals & Mining
+Hu Yangzhong,China,True,Technology
+Huang Dawen,Hong Kong,True,Manufacturing
+Huang Qiaoling,China,True,Media & Entertainment
+Rajiv Jain,United States,True,Finance & Investments
+Michael Jordan,United States,True,Sports
+Diane Kemper,United States,False,Real Estate
+Shlomo Kramer,Israel,True,Technology
+Heikki Kyostila,Finland,True,Healthcare
+Martin Lau,Hong Kong,True,Technology
+Li Min,China,True,Technology
+Liang Rubo,China,True,Technology
+Liang Zhaoxian,China,False,Manufacturing
+Lin Fanlian,China,True,Energy
+Aloke Lohia,India,False,Manufacturing
+Bill Malhotra,Canada,True,Real Estate
+Alexander Mamut,Russia,True,Finance & Investments
+Craig McCaw,United States,False,Telecom
+Cunhui Nan,China,True,Manufacturing
+Tengyun Nie & family,China,True,Service
+Oei Hong Leong,Singapore,False,Finance & Investments
+Clive Palmer,Australia,True,Metals & Mining
+Matthew Prince,United States,True,Technology
+Linda Pritzker,United States,False,Service
+P.V. Krishna Reddy,India,True,Construction & Engineering
+Bianca Rinehart,Australia,False,Metals & Mining
+Ginia Rinehart,Australia,False,Metals & Mining
+T. Denny Sanford,United States,True,Finance & Investments
+Bhadresh Shah,India,True,Manufacturing
+Zygmunt Solorz-Zak,Poland,True,Media & Entertainment
+Michal Strnad,Czech Republic,False,Manufacturing
+Sylvia Stroeher,Germany,False,Fashion & Retail
+Otto Toto Sugiri,Indonesia,True,Technology
+Larry Tanenbaum,Canada,True,Sports
+Wichai Thongtang,Thailand,True,Finance & Investments
+Ion Tiriac,Romania,True,Finance & Investments
+Hope Welker,Australia,False,Metals & Mining
+William Young,United States,True,Manufacturing
+Ales Zavoral,Czech Republic,True,Fashion & Retail
+Zhang Fan,China,True,Technology
+Shilong Zhang & family,China,True,Technology
+Zhang Wanzhen,China,True,Manufacturing
+Hongfei Zhao,China,True,Technology
+Zhou Jian,China,True,Energy
+Zhu Yiwen & family,China,True,Healthcare
+Roberto Angelini Rossi,Chile,False,Diversified
+Mika Anttonen,Finland,True,Energy
+David Blitzer,United States,True,Sports
+Julio Bozano,Brazil,True,Finance & Investments
+Nikolai Buinov,Russia,True,Energy
+Nicola Bulgari,Italy,False,Fashion & Retail
+"Howard Butt, III. & family",United States,False,Fashion & Retail
+Stephen Butt & family,United States,False,Fashion & Retail
+Jianxing Che,China,True,Fashion & Retail
+Huxiong Chen,China,True,Manufacturing
+Chen Qiongxiang,China,True,Energy
+Chen Zhisong,China,True,Technology
+Manas Chiaravanond,Thailand,False,Diversified
+Prathip Chiravanond,Thailand,False,Diversified
+Alexandra Daitch,United States,False,Food & Beverage
+Sol Daurella,Spain,False,Food & Beverage
+Mark Davis,United States,False,Sports
+James Dinan,United States,True,Finance & Investments
+Dong Fan,China,True,Healthcare
+Fritz Draexlmaier,Germany,False,Automotive
+Bulent Eczacibasi,Turkey,False,Diversified
+Faruk Eczacibasi,Turkey,False,Diversified
+Eduardo Eurnekian,Argentina,True,Diversified
+David Fong,Hong Kong,False,Real Estate
+Guo Zhenyu & family,Canada,True,Fashion & Retail
+Surjit Kumar Gupta,India,False,Manufacturing
+Caroline Hagen Kjos,Norway,False,Diversified
+Roberto Hernandez Ramirez,Mexico,True,Finance & Investments
+Reid Hoffman,United States,True,Technology
+Hu Rongda & family,China,True,Manufacturing
+"B. Wayne Hughes, Jr.",United States,False,Real Estate
+Hui Wing Mau,Hong Kong,True,Real Estate
+Scott Kapnick,United States,True,Finance & Investments
+Richard Kayne,United States,True,Finance & Investments
+Dominika Kulczyk,Poland,False,Finance & Investments
+Edward Lampert,United States,True,Finance & Investments
+Somsri Lamsam,Thailand,False,Diversified
+James Leprino,United States,False,Food & Beverage
+David Lichtenstein,United States,True,Real Estate
+Lin Dingqiang & family,Hong Kong,True,Real Estate
+Sarah MacMillan,United States,False,Food & Beverage
+Strive Masiyiwa,Zimbabwe,True,Telecom
+Robert Miller,United Kingdom,True,Fashion & Retail
+Simon Nixon,United Kingdom,True,Technology
+Kentaro Ogawa,Japan,True,Food & Beverage
+Ajay Parekh,India,False,Manufacturing
+Narendrakumar Parekh,India,False,Manufacturing
+Jennifer Pritzker,United States,False,Finance & Investments
+G. Rajendran,India,True,Fashion & Retail
+Ren Jianhua,China,True,Manufacturing
+Larry Robbins,United States,True,Finance & Investments
+Dwight Schar,United States,True,Construction & Engineering
+Shao Jianxiong,China,True,Energy
+Qinxiang Shao,China,True,Manufacturing
+Hua Shen,United States,True,Technology
+Shi Wen-long,Taiwan,True,Manufacturing
+Peter Sondakh,Indonesia,True,Finance & Investments
+Lucy Stitzer,United States,False,Food & Beverage
+Elizabeth Sy,Philippines,False,Diversified
+Hermanto Tanoko,Indonesia,False,Manufacturing
+Mehmet Sinan Tara,Turkey,False,Construction & Engineering
+Masateru Uno & family,Japan,True,Fashion & Retail
+Vardis Vardinoyannis & family,Greece,True,Energy
+Jitendra Virwani,India,False,Real Estate
+Wang Chaobin,China,True,Real Estate
+Wang Ren-sheng,Taiwan,True,Fashion & Retail
+Charlotte Colket Weber,United States,False,Food & Beverage
+Xie Juhua & family,China,False,Healthcare
+Chuanhua Xu & family,China,True,Manufacturing
+Gavril Yushvaev & family,Russia,True,Finance & Investments
+Zhang Hongwei,China,True,Diversified
+Anita Zucker,United States,False,Manufacturing
+Cameron Adams,Australia,True,Technology
+Will Adderley,United Kingdom,False,Fashion & Retail
+Faisal Bin Qassim Al Thani,Qatar,True,Diversified
+Leslie Alexander,United States,True,Sports
+Masaaki Arai,Japan,True,Real Estate
+Sabrina Benetton,Italy,False,Fashion & Retail
+Sanjeev Bikhchandani,India,True,Technology
+O. Francis Biondi,United States,True,Finance & Investments
+Alejandro Bulgheroni,Argentina,False,Energy
+R.G. Chandramogan,India,True,Food & Beverage
+Binod Chaudhary,Nepal,False,Diversified
+Parker Conrad,United States,True,Technology
+Tim Cook,United States,True,Technology
+Mark Coombs,United Kingdom,True,Finance & Investments
+John de Mol,Netherlands,True,Media & Entertainment
+D. Leopoldo Del Pino,Spain,False,Construction & Engineering
+Diao Zhizhong,China,True,Technology
+Robert Duggan,United States,True,Healthcare
+James France,United States,False,Sports
+Phillip Frost,United States,True,Healthcare
+Jayme Garfinkel & family,Brazil,False,Finance & Investments
+Christopher Goldsbury,United States,False,Food & Beverage
+Yusuf Hamied,India,False,Healthcare
+Brian Higgins,United States,True,Finance & Investments
+Wei Huang,China,True,Real Estate
+Yintai Jiang & family,China,True,Automotive
+Lei Jin,China,True,Healthcare
+Jin Lei & family,China,True,Healthcare
+Valentin Kipyatkov,Cyprus,True,Technology
+Koo Kwang-mo,South Korea,False,Diversified
+George Kurtz,United States,True,Technology
+Joe Lacob,United States,True,Sports
+Joe Lau,United States,True,Technology
+Louise Lindh,Sweden,False,Diversified
+Luo Yangyong & family,China,True,Metals & Mining
+Joao Roberto Marinho,Brazil,False,Media & Entertainment
+Jose Roberto Marinho,Brazil,False,Media & Entertainment
+Roberto Irineu Marinho,Brazil,False,Media & Entertainment
+Gary Michelson,United States,True,Healthcare
+Robert G. Miller,Canada,True,Technology
+David Mindus,Sweden,True,Real Estate
+Adriaan Mol,Netherlands,True,Technology
+Mofatraj Munot,India,True,Real Estate
+Ezra Nahmad,Monaco,False,Finance & Investments
+Satyanarayan Nuwal,India,True,Manufacturing
+Maike Oberwelland-Height,Germany,False,Food & Beverage
+Nihat Ozdemir,Turkey,True,Diversified
+Benjamin Zhengmin Pan & family,China,True,Technology
+Pierre Karl Péladeau,Canada,False,Media & Entertainment
+Ronald Perelman,United States,True,Finance & Investments
+Olivier Pomel,France,True,Technology
+Krit Ratanarak,Thailand,False,Media & Entertainment
+Vinod Saraf,India,True,Manufacturing
+Karin Schick,Germany,False,Technology
+Anatoly Sedykh,Russia,True,Metals & Mining
+Genhuo Shao,China,True,Food & Beverage
+Shen Xiqiang & family,China,True,Energy
+S.D. Shibulal,India,True,Technology
+Suh Kyung-bae,South Korea,False,Fashion & Retail
+Bambang Sutantio,Indonesia,True,Food & Beverage
+Sze Man Bok,China,True,Manufacturing
+Jim Thompson,United States,True,Logistics
+Tran Dinh Long,Vietnam,True,Manufacturing
+Alan Trefler,United States,True,Technology
+Riaz Valani,United States,True,Finance & Investments
+Pieter van der Does,Netherlands,True,Technology
+Martin Viessmann,Germany,False,Manufacturing
+Nikil Viswanathan,United States,True,Technology
+Todd Wagner,United States,True,Media & Entertainment
+Evan Williams,United States,True,Technology
+Kie Chie Wong,Malaysia,False,Metals & Mining
+Thomas Wu,Taiwan,False,Finance & Investments
+Wu Yingming,China,True,Energy
+Amy Wyss,United States,False,Healthcare
+Yan Zhi,China,True,Real Estate
+Yoshiaki Yoshida,Japan,True,Fashion & Retail
+Alan Zekelman,Canada,False,Manufacturing
+Zhang Li,China,True,Real Estate
+Amy Adams Strunk,United States,False,Sports
+Marc Andreessen,United States,True,Finance & Investments
+Giovanni Arvedi,Italy,True,Metals & Mining
+Lesley Bamberger,Netherlands,False,Real Estate
+Bang Si-hyuk,South Korea,True,Media & Entertainment
+David Booth,United States,True,Finance & Investments
+Jim Breyer,United States,True,Technology
+Chen Kaichen,China,True,Manufacturing
+Kommer Damen,Netherlands,False,Manufacturing
+Carl DeSantis,United States,True,Food & Beverage
+Marek Dospiva,Czech Republic,True,Finance & Investments
+Keith Dunleavy & family,United States,True,Healthcare
+John Elkann,Italy,False,Finance & Investments
+Francois Feuillet & family,France,False,Automotive
+Yasuhiro Fukushima,Japan,True,Media & Entertainment
+Mario Gabelli,United States,True,Finance & Investments
+Rolf Gerling,Germany,False,Finance & Investments
+John Goff,United States,True,Real Estate
+Alexandre Grendene Bartelle,Brazil,True,Fashion & Retail
+Gerry Harvey,Australia,True,Fashion & Retail
+He Zhaoxi,China,True,Technology
+William Heinecke,Thailand,True,Real Estate
+Jay Hennick,Canada,True,Finance & Investments
+Ilkka Herlin,Finland,False,Manufacturing
+Asok Kumar Hiranandani,Singapore,False,Real Estate
+Hal Jackman,Canada,True,Finance & Investments
+Pavan Jain,India,False,Manufacturing
+Keeree Kanjanapas,Thailand,True,Real Estate
+Osman Kibar,United States,True,Healthcare
+Kim Chang-soo,South Korea,True,Fashion & Retail
+Kim Jung-min,South Korea,False,Media & Entertainment
+Kim Jung-youn,South Korea,False,Media & Entertainment
+Mustafa Kucuk,Turkey,True,Fashion & Retail
+Christopher Kwok,Hong Kong,False,Real Estate
+Edward Kwok,Hong Kong,False,Real Estate
+Lai Jianfa,China,True,Logistics
+Lau Cho Kun,Malaysia,False,Diversified
+Alexis Lê-Quôc,United States,True,Technology
+Lei Jufang,China,True,Healthcare
+James Leininger,United States,True,Healthcare
+Xuhui Li,China,True,Food & Beverage
+Jimmy John Liautaud,United States,True,Food & Beverage
+Lin Lairong & family,China,True,Metals & Mining
+Lu Di,China,True,Technology
+Palmer Luckey,United States,True,Technology
+Duncan MacMillan,United States,True,Finance & Investments
+Yusaku Maezawa,Japan,True,Technology
+Ilson Mateus & family,Brazil,True,Fashion & Retail
+Meng Qingshan & family,China,True,Manufacturing
+Alberto Palatchi,Spain,True,Fashion & Retail
+Mrudula Parekh,India,False,Manufacturing
+Dragos Paval,Romania,True,Fashion & Retail
+Jorge Perez,United States,True,Real Estate
+Dmitry Pumpyansky,Russia,True,Metals & Mining
+Jinsheng Ren & family,China,True,Healthcare
+Brian Roberts,United States,False,Media & Entertainment
+"Joe Rogers, Jr.",United States,False,Food & Beverage
+Ruan Shuilong & family,China,True,Manufacturing
+Paul Saville,United States,True,Real Estate
+Ivan Savvidis & family,Russia,True,Diversified
+Keiichi Shibahara,Japan,True,Healthcare
+Rajju Shroff,India,True,Manufacturing
+Sun Huaiqing & family,China,True,Fashion & Retail
+Alain Taravella,France,True,Real Estate
+Jonathan Tisch,United States,False,Diversified
+Kenneth Tuchman,United States,True,Service
+Wang Chou-hsiong,Taiwan,True,Manufacturing
+Wang Minwen,China,True,Technology
+Tom Werner,United States,True,Sports
+Stephen Winn,United States,True,Real Estate
+Ian Wood & family,United Kingdom,False,Energy
+Wu Lanlan & family,China,True,Manufacturing
+Xu Bingzhong,China,True,Food & Beverage
+Yang Xuegang,China,True,Manufacturing
+Vladimir Yevtushenkov,Russia,True,Telecom
+David Zalik,United States,True,Technology
+Zhang Xiaojuan,China,True,Logistics
+Zheng Xiaodong,China,True,Manufacturing
+Zhong Ruonong & family,China,True,Manufacturing
+Noubar Afeyan,United States,True,Healthcare
+Syed Mokhtar AlBukhary,Malaysia,True,Construction & Engineering
+"Herbert Allen, Jr. & family",United States,False,Finance & Investments
+Vasily Anisimov,Russia,True,Metals & Mining
+Clifford Asness,United States,True,Finance & Investments
+Louis Bacon,United States,True,Finance & Investments
+Bai Baokun,China,True,Manufacturing
+Alex Birkenstock,Germany,False,Fashion & Retail
+Christian Birkenstock,Germany,False,Fashion & Retail
+Josef Boquoi & family,Germany,True,Food & Beverage
+Cai Huabo,China,True,Technology
+Chen Tianshi,China,True,Technology
+Chen Yung-tai,Taiwan,True,Real Estate
+Chey Tae-won,South Korea,False,Technology
+Ivan Chrenko,Slovakia,True,Real Estate
+Robert Clark,United States,True,Construction & Engineering
+Jack Cockwell,Canada,True,Finance & Investments
+Tench Coxe,United States,True,Finance & Investments
+Jim Crane,United States,True,Sports
+Norbert Dentressangle,France,True,Logistics
+Jamie Dimon,United States,True,Finance & Investments
+Daniel Dines,Romania,True,Technology
+Alfredo Egydio Arruda Villela Filho,Brazil,False,Finance & Investments
+Gary Fegel,Switzerland,True,Metals & Mining
+"William Foley, II.",United States,True,Finance & Investments
+Richard Fortin,Canada,True,Fashion & Retail
+Gao Yi & family,China,True,Healthcare
+Giammaria Giuliani,Switzerland,False,Healthcare
+Bill Gross,United States,True,Finance & Investments
+Sue Gross,United States,False,Finance & Investments
+Irving Grousbeck & family,United States,True,Sports
+Timothy Headington,United States,False,Energy
+Ilona Herlin,Finland,False,Manufacturing
+David Hoffmann,United States,True,Diversified
+Stanley Hubbard,United States,False,Media & Entertainment
+Hui Lin Chit,China,True,Manufacturing
+Tianjiang Jia & family,China,True,Metals & Mining
+Zhaobai Jiang,China,True,Real Estate
+Sergei Katsiev,Russia,True,Fashion & Retail
+Kim Jae-young,South Korea,True,Media & Entertainment
+Randal J. Kirk,United States,True,Healthcare
+William Koch,United States,False,Energy
+Pyotr Kondrashev,Russia,True,Manufacturing
+Eiichi Kuriwada,Japan,True,Logistics
+Robert Langer,United States,True,Healthcare
+Anthony Langley,United Kingdom,True,Diversified
+Marianna Latsis & family,Greece,False,Diversified
+Lee Yeow Seng,Malaysia,False,Real Estate
+Li Sze Lim,Hong Kong,True,Real Estate
+Li Wa,Hong Kong,True,Real Estate
+Li Weiwei,China,True,Technology
+Liang Qin & family,China,True,Technology
+Vincent Lo,Hong Kong,False,Real Estate
+Terence (Terry) Matthews,Canada,True,Telecom
+Jim McKelvey,United States,True,Technology
+P.N.C. Menon,Oman,True,Real Estate
+Massimo Moratti,Italy,False,Energy
+Liora Ofer,Israel,False,Finance & Investments
+Stefan Pierer,Austria,True,Automotive
+Andreas Pohl,Germany,False,Finance & Investments
+"Reinfried Pohl, Jr.",Germany,False,Finance & Investments
+Michael Polsky,United States,True,Energy
+Francisco Jose Riberas Mera,Spain,False,Manufacturing
+Juan Maria Riberas Mera,Spain,False,Metals & Mining
+Andres Santo Domingo,United States,False,Food & Beverage
+Sathien Sathientham,Thailand,True,Food & Beverage
+Shang Xiaobo & family,China,True,Manufacturing
+Yuri Shefler,Russia,True,Food & Beverage
+Evgeny (Eugene) Shvidler,United States,True,Metals & Mining
+Ryan Smith,United States,True,Technology
+Zakhar Smushkin,Russia,True,Diversified
+Peter Sperling,United States,False,Service
+Laurie Tisch,United States,False,Diversified
+Steven Tisch,United States,False,Diversified
+Michael Tojner,Austria,True,Manufacturing
+August Troendle,United States,True,Healthcare
+Tseng Sing-ai,Taiwan,False,Manufacturing
+Sekar Vembu,India,True,Technology
+Chris Wallin,Australia,True,Energy
+Wang Changtian,China,True,Media & Entertainment
+Ning Wang & family,China,True,Media & Entertainment
+Scott Watterson,United States,True,Technology
+Dan Wilks,United States,True,Energy
+Alan Wilson,Australia,False,Fashion & Retail
+Bruce Wilson,Australia,False,Fashion & Retail
+John Wilson,Australia,False,Fashion & Retail
+Anthony Wood,United States,True,Technology
+Wu Ying,China,True,Manufacturing
+Wu Yulan,China,True,Healthcare
+Zhongyi Wu,China,True,Technology
+Xiang Guangming & family,China,True,Manufacturing
+Xue Xiangdong & family,China,True,Technology
+George Yancopoulos,United States,True,Healthcare
+Steven Meng Yang & family,China,True,Technology
+Ye Fan & family,China,True,Automotive
+Yi Dasheng,China,True,Diversified
+Yu Lili,China,True,Manufacturing
+Zeng Kaitian,China,True,Technology
+Zhang Xuexin & family,China,True,Metals & Mining
+Yubai Zhang,China,True,Food & Beverage
+Fredrik Österberg,Sweden,True,Gambling & Casinos
+Shiv Kishan Agrawal,India,False,Food & Beverage
+Aziz Akhannouch & family,Morocco,False,Diversified
+Hamdi Akin & family,Turkey,True,Diversified
+Nerio Alessandri,Italy,True,Manufacturing
+Alexandra Andresen,Norway,False,Diversified
+Katharina Andresen,Norway,False,Diversified
+Patricia Angelini Rossi,Chile,False,Diversified
+Mori Arkin,Israel,True,Healthcare
+Barbara Benetton,Italy,False,Fashion & Retail
+Angela Bennett,Australia,False,Metals & Mining
+Zadik Bino & family,Israel,True,Diversified
+Paolo Bulgari,Italy,False,Fashion & Retail
+Saket Burman,United Kingdom,False,Food & Beverage
+Ahmet Calik,Turkey,True,Diversified
+Safra Catz,United States,True,Technology
+Chang Kuo-Hua,Taiwan,False,Logistics
+Chu Jian,China,True,Manufacturing
+Sandor Csanyi,Hungary,True,Diversified
+Ana Lucia de Mattos Barretto Villela,Brazil,False,Finance & Investments
+Federico De Nora,Italy,False,Manufacturing
+Bharat Desai,United States,True,Technology
+Mohammed Dewji,Tanzania,False,Diversified
+Egon Durban,United States,True,Finance & Investments
+Fu Mingkang & family,China,True,Manufacturing
+Alan Gerry,United States,True,Media & Entertainment
+Philippe Ginestet & family,France,True,Fashion & Retail
+G. Gnanalingam,Malaysia,True,Logistics
+Esther Grether,Switzerland,False,Fashion & Retail
+Wei Gu,China,True,Manufacturing
+Patrick Hanrahan,United States,True,Technology
+Kenneth Hao,United States,True,Finance & Investments
+Jaroslav Hascak & family,Slovakia,True,Finance & Investments
+He Zhenggang,China,True,Manufacturing
+Niranjan Hiranandani,India,True,Real Estate
+Ho Hung Anh,Vietnam,True,Finance & Investments
+Archie Hwang,Taiwan,True,Technology
+Peter Jackson,New Zealand,True,Media & Entertainment
+Stephen Jarislowsky,Canada,True,Finance & Investments
+Rajeev Juneja,India,True,Healthcare
+Ramesh Juneja,India,True,Healthcare
+Ke Xiping & family,China,True,Diversified
+Kim Jun-ki,South Korea,True,Diversified
+Sidney Kimmel,United States,True,Fashion & Retail
+Jim Koch,United States,True,Food & Beverage
+Raj Kumar,Singapore,True,Real Estate
+Spiro Latsis & family,Greece,False,Diversified
+Peter Leibinger,Germany,False,Manufacturing
+Regine Leibinger,Germany,False,Manufacturing
+Nicola Leibinger-Kammueller,Germany,False,Manufacturing
+Li Jianli,China,True,Manufacturing
+Li Jiaquan,China,True,Manufacturing
+Li Rucheng,China,True,Fashion & Retail
+Li Shui-po,Taiwan,True,Manufacturing
+Scott Lin,Taiwan,True,Technology
+Liu Xiucai & family,United States,True,Manufacturing
+Lu Zhongfang,China,True,Automotive
+Lu Zongjun,China,True,Logistics
+Youssef Mansour,Egypt,True,Diversified
+Bruce Mathieson,Australia,True,Real Estate
+Romano Minozzi,Italy,True,Diversified
+Greg Mondre,United States,True,Finance & Investments
+Mario Moretti Polegato & family,Italy,True,Fashion & Retail
+Robert Mouawad,Lebanon,False,Service
+Jerry Moyes & family,United States,True,Logistics
+John Ocampo,United States,True,Technology
+Stefan Olsson,Sweden,False,Diversified
+Rubens Ometto Silveira Mello,Brazil,False,Energy
+Anne Marie See Pastor,Peru,False,Finance & Investments
+George Pastor,Peru,False,Finance & Investments
+Nelson Peltz,United States,True,Finance & Investments
+David Penaloza Alanis,Mexico,False,Construction & Engineering
+Karl-Johan Persson,Sweden,False,Fashion & Retail
+Mike Repole,United States,True,Food & Beverage
+Duke Reyes,United States,False,Food & Beverage
+Kishin RK,Singapore,False,Real Estate
+Carlos Rodriguez-Pastor,Peru,False,Finance & Investments
+Christopher Rokos,United Kingdom,True,Finance & Investments
+John Ruiz,United States,True,Service
+Sheryl Sandberg,United States,True,Technology
+Amnon Shashua,Israel,True,Automotive
+Ben Silbermann,United States,True,Media & Entertainment
+Ron Sim,Singapore,True,Fashion & Retail
+Leonid Simanovsky,Russia,True,Finance & Investments
+Basudeo Singh,India,True,Healthcare
+Frank Slootman,United States,True,Technology
+Terry Snow,Australia,True,Real Estate
+Axel Stawski,United States,True,Real Estate
+Thomas Steyer,United States,True,Finance & Investments
+Sergei Studennikov & family,Russia,True,Fashion & Retail
+Su Suyu & family,China,True,Real Estate
+Kevin Systrom,United States,True,Technology
+Tan Lili,China,True,Food & Beverage
+Tang Binsen,China,True,Food & Beverage
+Tang Rui,China,True,Technology
+Prachak Tangkaravakoon,Thailand,True,Manufacturing
+Jeff Tangney,United States,True,Healthcare
+Yuequn Tao,China,True,Fashion & Retail
+David Teoh,Australia,True,Telecom
+Carmen Thyssen,Spain,False,Manufacturing
+Tran Ba Duong & family,Vietnam,True,Automotive
+Kenny Troutt,United States,True,Telecom
+Jens von Bahr,Sweden,True,Gambling & Casinos
+Wang Junmin,China,True,Healthcare
+Weng Xianding,China,True,Healthcare
+Farris Wilks,United States,True,Energy
+Gordon Wu,Hong Kong,True,Real Estate
+Xiong Wu,China,True,Technology
+Xu Zhenhua,China,True,Media & Entertainment
+Xu Zhihan,China,True,Technology
+Tingdong Yang,China,True,Food & Beverage
+Michael Minhong Yu,China,True,Service
+Justin Yuan,China,True,Media & Entertainment
+Zhang Bangxin,China,True,Service
+Zhang Hong,China,True,Energy
+Zhou Zongwen & family,China,True,Fashion & Retail
+Antti Aarnio-Wihuri,Finland,False,Diversified
+Alberto Alcocer,Spain,True,Finance & Investments
+Nigel Austin,Australia,True,Fashion & Retail
+Binny Bansal,India,True,Technology
+Girdhari Lal Bawri,India,True,Healthcare
+John Bloor,United Kingdom,True,Diversified
+Vladimir Bogdanov,Russia,True,Energy
+Amit Burman,India,False,Food & Beverage
+Cai Jianyong,China,True,Metals & Mining
+Steve Case,United States,True,Technology
+Chen Wenyuan & family,China,True,Technology
+Chua Thian Poh,Singapore,True,Real Estate
+Sasson Dayan & family,Brazil,True,Finance & Investments
+Chris Ellison,Australia,True,Metals & Mining
+John Farber,United States,True,Manufacturing
+J. Christopher Flowers,United States,True,Finance & Investments
+Reinold Geiger,Austria,True,Fashion & Retail
+Ali Ghodsi,Sweden,True,Technology
+Lance Gokongwei,Philippines,False,Diversified
+Guan Yihong,China,True,Food & Beverage
+Rajinder Gupta,India,True,Manufacturing
+Torstein Hagen,Norway,True,Service
+Ayman Hariri,Lebanon,False,Construction & Engineering
+Alfredo Harp Helu & family,Mexico,True,Finance & Investments
+He Xiaopeng,China,True,Automotive
+Christoph Henkel,Germany,False,Fashion & Retail
+Daniel Hirschfeld,United States,False,Fashion & Retail
+Drew Houston,United States,True,Technology
+Huang Jinxiang & family,China,True,Manufacturing
+Rameshchandra Jain,India,True,Manufacturing
+Ke Zunhong & family,China,True,Healthcare
+Kim Taek-jin,South Korea,True,Media & Entertainment
+Koh Wee Meng,Singapore,True,Real Estate
+Sergei Kolesnikov,Russia,True,Manufacturing
+Hemendra Kothari,India,False,Finance & Investments
+Sebastian Kulczyk,Poland,False,Finance & Investments
+Kwee Liong Keng,Singapore,False,Real Estate
+Kwee Liong Phing,Singapore,False,Real Estate
+Kwee Liong Seen,Singapore,False,Real Estate
+Kwee Liong Tek,Singapore,False,Real Estate
+Kwek Leng Keow,Singapore,False,Diversified
+Kwek Leng Peck,Singapore,False,Diversified
+Raymond Kwok,Hong Kong,False,Real Estate
+Lee Ho-jin,South Korea,False,Diversified
+Michael Lee-Chin,Canada,True,Finance & Investments
+Manfredi Lefebvre d'Ovidio & family,Italy,False,Service
+Bernard Lewis & family,United Kingdom,True,Fashion & Retail
+Li Jinyang,China,False,Metals & Mining
+William Li,China,True,Automotive
+Jenny Lindén Urnes,Sweden,False,Manufacturing
+Liu Fangyi,China,True,Healthcare
+K.C. Liu,Taiwan,True,Technology
+Liu Ming Chung,Brazil,True,Manufacturing
+Anatoly Lomakin,Russia,True,Metals & Mining
+Brandt Louie,Canada,False,Food & Beverage
+Lucia Maggi & family,Brazil,True,Diversified
+Gary Magness,United States,False,Media & Entertainment
+Mao Lixiang & family,China,True,Technology
+David McMurtry,United Kingdom,True,Manufacturing
+Deepak Mehta,India,False,Manufacturing
+Miao Shouliang,China,True,Real Estate
+Miao Yongjun,China,True,Healthcare
+Yoshiko Mori,Japan,False,Real Estate
+Marius Nacht,Israel,True,Technology
+Tadako Nakatani,Japan,False,Healthcare
+Vadim Novinsky,Ukraine,True,Metals & Mining
+Niti Osathanugrah,Thailand,False,Finance & Investments
+Gretel Packer,Australia,False,Finance & Investments
+Pan Longquan,China,True,Manufacturing
+Pan Shiyi,China,True,Real Estate
+David Paul,United States,True,Healthcare
+Tom Persson,Sweden,False,Fashion & Retail
+Qian Jinghong,China,True,Automotive
+Qin Long,China,True,Manufacturing
+M.Satyanarayana Reddy,India,True,Healthcare
+Mochtar Riady & family,Indonesia,True,Diversified
+Rihanna,Barbados,True,Fashion & Retail
+Boris Rotenberg,Russia,True,Construction & Engineering
+Subhash Runwal,India,True,Real Estate
+Igor Rybakov,Russia,True,Manufacturing
+Carlos Sanchez,Brazil,False,Healthcare
+Martin Selig,United States,True,Real Estate
+Airat Shaimiev,Russia,True,Energy
+Radik Shaimiev,Russia,True,Energy
+Nobutoshi Shimamura,Japan,True,Fashion & Retail
+Jared Smith,United States,True,Technology
+Charlotte Soderstrom,Sweden,False,Fashion & Retail
+Anand Surana,India,False,Healthcare
+Dilip Surana,India,False,Healthcare
+Wilma Tisch,United States,False,Finance & Investments
+Jianyi Wang,China,True,Technology
+Wang Jilei,China,True,Logistics
+Shuifu Wang,China,True,Manufacturing
+Wang Yanqing & family,China,False,Manufacturing
+Wang Zelong,China,False,Metals & Mining
+Werner O. Weber,Switzerland,True,Manufacturing
+Anne Werninghaus,Brazil,False,Manufacturing
+"Alfred West, Jr.",United States,True,Finance & Investments
+Bo Wu,China,True,Manufacturing
+Wu Chaoqun,China,True,Manufacturing
+Swift Xie,China,True,Technology
+Xu Guozhong & family,China,True,Manufacturing
+Yao Kuizhang,China,True,Food & Beverage
+Yu Peidi,Hong Kong,True,Real Estate
+Yuan Liping,Canada,False,Healthcare
+Zhang Chuanwei & family,China,True,Manufacturing
+Zhang Keqiang,China,True,Real Estate
+Zhang Xin,China,True,Real Estate
+Xinghai Zhang & family,China,True,Manufacturing
+Zheng Jianjiang & family,China,True,Manufacturing
+Zhong Sheng Jian,Singapore,True,Real Estate
+Zhou Chengjian,China,True,Fashion & Retail
+Boris Zingarevich,Russia,True,Diversified
+A. Jayson Adair,United States,True,Automotive
+Soegiarto Adikoesoemo,Indonesia,True,Logistics
+Rajendra Agarwal,India,True,Healthcare
+Chirayu Amin,India,False,Healthcare
+Anant Asavabhokhin,Thailand,True,Real Estate
+Roman Avdeev,Russia,True,Finance & Investments
+Ziv Aviram,Israel,True,Automotive
+Sachin Bansal,India,True,Fashion & Retail
+Kiki Barki,Indonesia,True,Energy
+Elena Baturina,Russia,True,Construction & Engineering
+Banwari Lal Bawri,India,True,Healthcare
+Othman Benjelloun & family,Morocco,False,Finance & Investments
+Hari Bhartia,India,False,Diversified
+Shyam Bhartia,India,False,Healthcare
+Stewart Butterfield,Canada,True,Technology
+Cai Mingtong,China,True,Technology
+Anthony Casalena,United States,True,Technology
+Chang Jianming & family,China,True,Manufacturing
+Richard Chang,Taiwan,True,Real Estate
+Chen Xuehua,China,True,Metals & Mining
+Chen Yin,China,True,Manufacturing
+Chin Jong Hwa,Taiwan,True,Automotive
+R. Marcelo Claure,United States,True,Telecom
+Alberto Cortina,Spain,True,Finance & Investments
+Eduardo Costantini,Argentina,True,Real Estate
+Wenjun Dai,China,True,Food & Beverage
+Anand Deshpande,India,True,Technology
+Aydin Dogan,Turkey,True,Media & Entertainment
+Annalisa Doris,Italy,False,Finance & Investments
+Massimo Doris,Italy,False,Finance & Investments
+Weimin Du,China,True,Healthcare
+Timothy Dunn & family,United States,True,Energy
+Keiko Erikawa,Japan,True,Media & Entertainment
+Yoichi Erikawa,Japan,True,Media & Entertainment
+Philip Fayer,Canada,True,Finance & Investments
+Marvy Finger,United States,True,Real Estate
+Simona Giorgetta,Italy,False,Construction & Engineering
+Joel Greenberg,United States,True,Finance & Investments
+He Zhiping,China,True,Finance & Investments
+Heikki Herlin,Finland,False,Manufacturing
+Hoi Kin Hong,Macau,True,Real Estate
+Lillyn Teh Li Hua,Malaysia,False,Finance & Investments
+Gregg Hymowitz,United States,True,Finance & Investments
+Mitchell Jacobson,United States,False,Service
+Anurang Jain,India,True,Manufacturing
+Jiang Guiting & family,China,True,Manufacturing
+Jin Xin,China,True,Manufacturing
+Conni Jonsson,Sweden,True,Finance & Investments
+George Joseph,United States,True,Finance & Investments
+Laurent Junique,France,True,Technology
+Zbigniew Juroszek & family,Poland,True,Diversified
+Alexander Karp,United States,True,Technology
+Joe Kiani,United States,True,Healthcare
+Seth Klarman,United States,True,Finance & Investments
+Kagemasa Kozuki,Japan,True,Technology
+Michael Krasny,United States,True,Technology
+Eduard Kucera,Czech Republic,True,Technology
+Kristo Käärmann,Estonia,True,Finance & Investments
+Gary Lauder,United States,False,Fashion & Retail
+Lee Hae-jin,South Korea,True,Technology
+Art Levinson,United States,True,Diversified
+Li Denghai,China,True,Food & Beverage
+Fengluan Li,China,True,Diversified
+Li Yongqing,China,True,Manufacturing
+Li Zhigang,China,True,Manufacturing
+Liu Gexin & family,China,True,Healthcare
+Itamar Locks & family,Brazil,False,Food & Beverage
+Lu Hongyan,China,True,Media & Entertainment
+Lv Jianming,Hong Kong,True,Healthcare
+Blairo Maggi,Brazil,False,Food & Beverage
+Yasseen Mansour,Egypt,True,Diversified
+Charlwin Mao,China,True,Fashion & Retail
+George Marcus,United States,True,Real Estate
+Yves-Loic Martin,France,True,Healthcare
+Carsten Maschmeyer,Germany,True,Finance & Investments
+Lillian Teh Li Ming,Malaysia,False,Finance & Investments
+Martin Moller Nielsen,Denmark,True,Logistics
+Jahm Najafi,United States,True,Finance & Investments
+Randal Nardone,United States,True,Finance & Investments
+Nguyen Dang Quang,Vietnam,True,Food & Beverage
+Kazuo Okada,Japan,True,Gambling & Casinos
+John Oyler,United States,True,Healthcare
+William Teh Lee Pang,Malaysia,False,Finance & Investments
+George Pedersen & family,United States,True,Manufacturing
+Qu Miranda,China,True,Fashion & Retail
+Jupally Rameshwar Rao,India,True,Real Estate
+G. M. Rao,India,True,Logistics
+P.V. Ramprasad Reddy,India,True,Healthcare
+Satish Reddy,India,False,Healthcare
+Fernando Roig,Spain,False,Fashion & Retail
+Igor Rotenberg,Russia,True,Diversified
+Seifeddin Rustamov,Russia,True,Manufacturing
+Deniz Sahenk,Turkey,False,Diversified
+Nobutada Saji,Japan,False,Food & Beverage
+Hajime Satomi,Japan,True,Gambling & Casinos
+James Scapa,United States,True,Technology
+Stephan Schnabel,Germany,False,Manufacturing
+Devi Shetty,India,True,Healthcare
+Albert Shigaboutdinov,Russia,True,Diversified
+Diana Teh Li Shing,Malaysia,False,Finance & Investments
+Denis Shtengelov,Russia,True,Food & Beverage
+Fei Song,China,True,Manufacturing
+Hal Steinbrenner,United States,False,Sports
+Jessica Steinbrenner,United States,False,Sports
+Jennifer Steinbrenner Swindal,United States,False,Sports
+Konstantin Strukov & family,Russia,True,Metals & Mining
+Rustem Sulteev,Russia,True,Energy
+Clemens Toennies,Germany,True,Food & Beverage
+Robert Toennies,Germany,False,Food & Beverage
+John Van Lieshout,Australia,True,Real Estate
+Pongsak Viddayakorn,Thailand,True,Healthcare
+Wang Jianguo,China,True,Fashion & Retail
+Junjin Wang,China,True,Service
+Wang Mingwang,China,True,Manufacturing
+Wei Lidong & family,China,True,Technology
+Myron Wentz,St. Kitts and Nevis,True,Fashion & Retail
+Wu Xiaoge,China,True,Manufacturing
+Wu Xushun & family,China,True,Diversified
+Xiong Xiaochuan,China,True,Healthcare
+Xu Shaochun,China,True,Technology
+Yan Jane & family,China,True,Technology
+Zeng Chaoyi,China,True,Manufacturing
+Peng Zhao,China,True,Service
+Zhao Tongtong,Canada,True,Service
+Kostyantin Zhevago,Ukraine,True,Metals & Mining
+Zong Yanmin,China,True,Manufacturing
+Sanjay Agarwal,India,True,Finance & Investments
+Hamad bin Jassim bin Jaber Al Thani,Qatar,False,Finance & Investments
+Joao Alves de Queiroz Filho,Brazil,True,Diversified
+Jose Maria Aristrain,Spain,False,Metals & Mining
+Michael Arougheti,United States,True,Finance & Investments
+Tope Awotona,United States,True,Technology
+Mehmet Aydinlar,Turkey,True,Healthcare
+Danna Azrieli,Israel,False,Real Estate
+Naomi Azrieli,Canada,False,Real Estate
+Sharon Azrieli,Canada,False,Real Estate
+Bai Houshan,China,True,Energy
+Thomas Bailey,United States,True,Finance & Investments
+Bernhard Braun-Luedicke,Germany,False,Healthcare
+Eva Maria Braun-Luedicke,Germany,False,Healthcare
+Friederike Braun-Luedicke,Germany,False,Healthcare
+Jeffrey Cheah,Malaysia,True,Real Estate
+Chen Xianbao & family,China,True,Food & Beverage
+Cheng Xianfeng,China,True,Healthcare
+Chung Yong-jin,South Korea,False,Fashion & Retail
+Darwin Deason,United States,True,Service
+Diego Della Valle,Italy,False,Fashion & Retail
+Ashwin Desai,India,True,Manufacturing
+Richard Desmond,United Kingdom,True,Media & Entertainment
+Ding Shui Po,China,False,Fashion & Retail
+Sefik Yilmaz Dizdar,Turkey,True,Fashion & Retail
+Mathias Doepfner,Germany,False,Media & Entertainment
+Farhad Ebrahimi,United States,True,Manufacturing
+Jose Roberto Ermirio de Moraes,Brazil,False,Diversified
+Jose Ermirio de Moraes Neto,Brazil,False,Diversified
+Fang Hongbo,China,True,Manufacturing
+David Feffer,Brazil,False,Manufacturing
+Zsolt Felcsuti,Hungary,True,Manufacturing
+Ben Francis,United Kingdom,True,Fashion & Retail
+Gary Friedman,United States,True,Fashion & Retail
+Dan Gertler,Israel,False,Metals & Mining
+Balkrishan Goenka,India,True,Manufacturing
+Lawrence Golub,United States,True,Finance & Investments
+Saroj Rani Gupta,India,True,Manufacturing
+Anthony Hall,Australia,True,Technology
+Fahed Hariri,Lebanon,False,Construction & Engineering
+Richard Hayne,United States,True,Fashion & Retail
+Michael Heine,Australia,True,Finance & Investments
+Orion Hindawi,United States,True,Technology
+Lawrence Ho,Hong Kong,False,Gambling & Casinos
+Huang Guanlin,China,True,Fashion & Retail
+Sam Hupert,Australia,True,Technology
+Mohammed Ibrahim,United Kingdom,True,Telecom
+Shirley Kao,Taiwan,False,Food & Beverage
+David Kaplan,United States,True,Finance & Investments
+Kim Kardashian,United States,True,Fashion & Retail
+Ke Guihua,China,True,Manufacturing
+Ke Yunfeng & family,China,True,Healthcare
+Alexander Klyachin,Russia,True,Real Estate
+Christine Knauf,Germany,False,Manufacturing
+Karl Knauf,Germany,False,Manufacturing
+Suresh Krishna,India,False,Automotive
+Guy Laliberté,Canada,True,Media & Entertainment
+Lee Su-jin,South Korea,True,Technology
+Li Guoqing,China,True,Manufacturing
+Li Li,China,True,Healthcare
+Li Ruiqiang,China,True,Healthcare
+Zhen Li & family,China,True,Manufacturing
+Guangwei Liang,China,True,Manufacturing
+Liu Ming Hui,China,True,Energy
+Frederic Luddy,United States,True,Technology
+"Cargill MacMillan, III.",United States,False,Food & Beverage
+John MacMillan,United States,False,Food & Beverage
+Martha MacMillan,United States,False,Food & Beverage
+William MacMillan,United States,False,Food & Beverage
+Keshub Mahindra,India,False,Diversified
+Mao Zhongwu,China,True,Manufacturing
+Jorge Mas,United States,False,Construction & Engineering
+Lorinc Meszaros,Hungary,True,Diversified
+Jeffrey Michael & family,United States,True,Technology
+Alan Miller & family,United States,True,Healthcare
+Ulrich Mommert & family,Austria,True,Automotive
+Neide Helena de Moraes,Brazil,False,Diversified
+Scott Nuttall,United States,True,Finance & Investments
+Kailashchandra Nuwal,India,False,Manufacturing
+Axel Oberwelland & family,Germany,False,Food & Beverage
+Jonathan Oringer,United States,True,Technology
+Vitaly Orlov,Russia,True,Food & Beverage
+Jose Isaac Peres & family,Brazil,True,Real Estate
+Markus Persson,Sweden,True,Media & Entertainment
+Mark Pincus,United States,True,Technology
+Murdaya Poo,Indonesia,False,Diversified
+Forrest Preston,United States,True,Healthcare
+Qian Ying,China,True,Food & Beverage
+Jimmy Rane,United States,True,Manufacturing
+Andrei Rappoport,Russia,True,Finance & Investments
+Hugo Ribeiro & family,Brazil,False,Food & Beverage
+Bennett Rosenthal,United States,True,Finance & Investments
+Atul Ruia,India,False,Real Estate
+Thomas Sandell,Sweden,True,Finance & Investments
+Francesco Saputo,Canada,False,Food & Beverage
+Dhruv Sawhney,India,False,Construction & Engineering
+Gerald Schwartz,Canada,True,Finance & Investments
+Antonio Luiz Seabra,Brazil,True,Fashion & Retail
+Eric Ya Shen,China,True,Technology
+Sytse 'Sid' Sijbrandij,Netherlands,True,Technology
+Alexander Sixt,Germany,False,Automotive
+Konstantin Sixt,Germany,False,Automotive
+Edwin Soeryadjaya,Indonesia,False,Energy
+Abhay Soi,India,True,Healthcare
+Mike Speiser,United States,True,Technology
+Marco Squinzi,Italy,False,Construction & Engineering
+Veronica Squinzi,Italy,False,Construction & Engineering
+Michael Steinhardt,United States,True,Finance & Investments
+Ion Stoica,Romania,True,Technology
+Eddy Sugianto,Indonesia,True,Metals & Mining
+Luc Tack,Belgium,True,Manufacturing
+Tony Tan Caktiong,Philippines,True,Food & Beverage
+Xiuguo Tang,China,True,Manufacturing
+Sam Tarascio,Australia,True,Real Estate
+Lina Tombolato,Italy,False,Finance & Investments
+Ching Bor Tung,China,True,Manufacturing
+Joop van den Ende,Netherlands,True,Media & Entertainment
+Ruben Vardanyan & family,Armenia,True,Finance & Investments
+Sandro Veronesi & family,Italy,True,Fashion & Retail
+Thongma Vijitpongpun,Thailand,True,Real Estate
+Thomas von Koch,Sweden,True,Finance & Investments
+Wang Fuji,China,True,Healthcare
+Wang Shih-Chung,Taiwan,True,Manufacturing
+Wang Xiaoshen,China,True,Manufacturing
+J. Wayne Weaver,United States,True,Diversified
+Drorit Wertheim,Israel,False,Food & Beverage
+Cameron Winklevoss,United States,True,Finance & Investments
+Tyler Winklevoss,United States,True,Finance & Investments
+Wu Chung-yi,Taiwan,False,Manufacturing
+Eugene Wu,Taiwan,False,Finance & Investments
+Wu Yonghua,China,True,Fashion & Retail
+Xia Xinde,China,True,Manufacturing
+Wenbo Xiang,China,True,Manufacturing
+Xu Jin,China,True,Food & Beverage
+Xu Shijun & family,China,True,Manufacturing
+Wanmao Xu,China,True,Service
+Xu Yuejuan,China,True,Manufacturing
+Vadim Yakunin,Russia,True,Healthcare
+Yang Yunyun,China,True,Fashion & Retail
+Matei Zaharia,Romania,True,Technology
+Zan Shengda,China,True,Diversified
+Zhang Xuezheng,China,True,Technology
+Zhang Yin,China,True,Manufacturing
+Ning Zhao,United States,True,Healthcare
+Zhou Wen & family,China,True,Manufacturing
+Zhu Xingliang,China,True,Construction & Engineering
+Hari Krishan Agarwal,India,True,Fashion & Retail
+Farkhad Akhmedov,Russia,True,Energy
+Prem Kumar Arora,India,False,Healthcare
+Joseph Bae,United States,True,Finance & Investments
+Abigail Bennett,United States,False,Food & Beverage
+Sara Blakely,United States,True,Fashion & Retail
+Lloyd Blankfein,United States,True,Finance & Investments
+Henadiy Boholyubov,Ukraine,True,Diversified
+Stephane Bonvin,Switzerland,True,Real Estate
+Oleg Boyko,Russia,True,Diversified
+Ryan Breslow,United States,True,Technology
+Thomas Bruch,Germany,False,Fashion & Retail
+Marina Budiman,Indonesia,True,Technology
+Pradip Burman,India,False,Food & Beverage
+Cai Hongbin,China,True,Healthcare
+Cao Kejian,China,True,Manufacturing
+Giuliana Caprotti,Italy,False,Food & Beverage
+Marina Caprotti,Italy,False,Food & Beverage
+Chang Jing,China,True,Technology
+Chen Baohua,China,True,Healthcare
+Gang Chen,China,True,Energy
+Liying Chen,China,True,Logistics
+Tony Chen,Taiwan,True,Technology
+Chen Xueling,China,True,Manufacturing
+Cheng Lili,China,True,Food & Beverage
+Cho Jyh-jer,Taiwan,True,Technology
+Weili Dai,United States,True,Technology
+Carmen Daurella Aguilera,Spain,False,Food & Beverage
+Deng Yingzhong,China,True,Manufacturing
+Shlomo Eliahu,Israel,True,Finance & Investments
+Henry Engelhardt,United States,True,Finance & Investments
+Gabriel Escarrer,Spain,True,Service
+Daniel Feffer,Brazil,False,Manufacturing
+Ruben Feffer,Brazil,False,Manufacturing
+Gleb Fetisov,Russia,True,Telecom
+Paul Fireman,United States,True,Fashion & Retail
+Robert Fisher,United States,False,Fashion & Retail
+Bernd Freier,Germany,True,Fashion & Retail
+Donald Friese,United States,True,Manufacturing
+Gan Zhongru,China,True,Healthcare
+Rahul Gautam,India,False,Fashion & Retail
+David Golub,United States,True,Finance & Investments
+Pavel Golubkov,Russia,True,Real Estate
+Cristina Green,United Kingdom,True,Fashion & Retail
+Philip Green,United Kingdom,True,Fashion & Retail
+Said Gutseriev,Russia,False,Energy
+Polys Haji-Ioannou,Cyprus,False,Service
+He Zuxun,China,True,Food & Beverage
+Christian Herz,Germany,False,Finance & Investments
+Michaela Herz,Germany,False,Finance & Investments
+David Hindawi,United States,True,Technology
+Huang Shan,China,True,Technology
+Huang Xiaofen & family,China,True,Technology
+Hiroshi Ishibashi,Japan,False,Automotive
+Masayuki Ishihara,Japan,False,Gambling & Casinos
+Chatchai Kaewbootta,Thailand,True,Finance & Investments
+Nikhil Kamath,India,True,Finance & Investments
+Jonas Kamprad,Sweden,False,Finance & Investments
+Mathias Kamprad,Sweden,False,Finance & Investments
+Peter Kamprad,Sweden,False,Finance & Investments
+Fumio Kaneko,Japan,True,Service
+Sunjay Kapur,United States,False,Automotive
+Ali Metin Kazanci,Turkey,True,Energy
+Kangbao Ke & family,China,True,Healthcare
+Carsten Koerl,Germany,True,Sports
+Koo Bon-sik,South Korea,False,Technology
+Andrei Kosogov,Russia,True,Energy
+Yogesh Kothari,India,True,Manufacturing
+Arvind Lal,India,False,Healthcare
+Manuel Lao Hernández,Spain,True,Gambling & Casinos
+Lee Joong-keun,South Korea,True,Construction & Engineering
+Nancy Lerner,United States,False,Finance & Investments
+Norma Lerner,United States,False,Finance & Investments
+Randolph Lerner,United States,False,Finance & Investments
+Lin Zhijun,China,True,Healthcare
+Lin Zhixiong & family,China,True,Healthcare
+Jeffrey Lorberbaum,United States,False,Manufacturing
+Lu Rongfu,China,True,Telecom
+Lyu Yixiong,China,True,Fashion & Retail
+Soichiro Minami,Japan,True,Technology
+Pawan Munjal,India,False,Automotive
+Renu Munjal,India,False,Automotive
+Suman Munjal,India,False,Automotive
+Dmitry Nikolaev,Russia,True,Energy
+Sjamsul Nursalim,Indonesia,False,Automotive
+Adrian Paval,Romania,True,Fashion & Retail
+Antonio Percassi,Italy,True,Diversified
+Kevin Plank,United States,True,Fashion & Retail
+G.V. Prasad,India,False,Healthcare
+Pu Zhongjie & family,China,True,Healthcare
+Rao Wei & family,China,True,Healthcare
+Helena Revoredo,Spain,False,Service
+Matthew Roszak,United States,True,Finance & Investments
+Paul Sciarra,United States,True,Technology
+Rajesh Sharma,India,False,Finance & Investments
+Dean Solon,United States,True,Energy
+Michael Spencer,United Kingdom,True,Finance & Investments
+Joseph Steinberg,United States,True,Finance & Investments
+Zachary Stern,United States,False,Food & Beverage
+Manny Stul,Australia,True,Manufacturing
+Sun Hongjun,China,True,Technology
+Sun Weijie,China,True,Manufacturing
+Sehat Sutardja,United States,True,Technology
+Min-Liang Tan,Singapore,True,Media & Entertainment
+Tan Yu Yeh,Malaysia,True,Fashion & Retail
+Tang Aoqi & family,China,True,Automotive
+Vonnarat Tangkaravakoon,Thailand,False,Manufacturing
+Tsao Ter-fung,Taiwan,True,Food & Beverage
+Tung Ching Sai,China,True,Manufacturing
+Arkady Volozh,Russia,True,Technology
+Peter-Alexander Wacker,Germany,False,Manufacturing
+Wan Long,China,True,Food & Beverage
+Wang Han,China,False,Diversified
+Lars Wingefors,Sweden,True,Media & Entertainment
+Allan Wong,Hong Kong,True,Manufacturing
+Tiger Woods,United States,True,Sports
+Horst Wortmann,Germany,True,Fashion & Retail
+Wu Kaiting,Hong Kong,True,Telecom
+Wu Li-gann,Taiwan,True,Manufacturing
+Wu Xiangdong,China,True,Food & Beverage
+Xiu Laigui,China,True,Healthcare
+Xu Jiangnan,China,True,Healthcare
+Xue Jiping,China,True,Telecom
+Yao Hsiao Tung,Singapore,True,Manufacturing
+Ye Qiongjiu,China,True,Technology
+Yanqiao Ye,China,True,Food & Beverage
+Yeh Kuo-I,Taiwan,True,Manufacturing
+Yu Faxiang,China,True,Media & Entertainment
+Zeng Chaolin,China,False,Metals & Mining
+Kapeng Zhang,China,True,Construction & Engineering
+Zhang Xuansong,China,True,Fashion & Retail
+Zhang Xuewu,China,True,Food & Beverage
+Zhu Yiming,China,True,Technology
+Zhu Zhaojiang,China,True,Manufacturing
+Zhuo Jun,Hong Kong,False,Manufacturing
+Manohar Lal Agarwal,India,False,Food & Beverage
+Christian Angermayer,Germany,True,Finance & Investments
+Ryuji Arai,Japan,True,Fashion & Retail
+Anna Maria Braun,Germany,False,Healthcare
+Johanna Braun,Germany,False,Healthcare
+Karl Friedrich Braun,Germany,False,Healthcare
+Ludwig Theodor Braun,Germany,False,Healthcare
+Ana Maria Brescia Cafferata,Peru,False,Diversified
+Jimmy Buffett,United States,True,Media & Entertainment
+Hideyuki Busujima,Japan,False,Gambling & Casinos
+Edouard Carmignac,France,True,Finance & Investments
+Chang Kuo-Ming,Taiwan,False,Logistics
+Chen Jiancheng,China,True,Manufacturing
+Rui Chen,China,True,Media & Entertainment
+Chen Shiliang,China,True,Manufacturing
+Tianqiao Chen,China,True,Technology
+Yuantai Chen,China,True,Energy
+Cheng Antares,Hong Kong,True,Food & Beverage
+Kochouseph Chittilappilly,India,True,Manufacturing
+John Christodoulou,United Kingdom,True,Real Estate
+Pollyanna Chu,Hong Kong,True,Finance & Investments
+Turgay Ciner,Turkey,True,Diversified
+Benoit Dageville,United States,True,Technology
+Mark Dixon,United Kingdom,True,Real Estate
+Du Yulin & family,China,True,Technology
+Feng Yuxia,China,True,Healthcare
+Benedicte Find,Denmark,False,Healthcare
+William Fisher,United States,False,Fashion & Retail
+Gao Yunfeng,China,True,Manufacturing
+Jianming Geng,China,True,Real Estate
+Sven Hagströmer,Sweden,True,Finance & Investments
+Clelia Haji-Ioannou,Cyprus,False,Service
+Stelios Haji-Ioannou,Cyprus,False,Service
+Hang Hong,China,True,Manufacturing
+He Yamin & family,China,True,Manufacturing
+Ghan Djoe Hiang,Indonesia,False,Energy
+Hong Feng,China,True,Technology
+Hong Seok-joh,South Korea,False,Fashion & Retail
+Hu Gengxi & family,China,True,Healthcare
+Danilo Iervolino,Italy,True,Technology
+Hedda im Brahm-Droege,Germany,True,Finance & Investments
+Inder Jaisinghani,India,True,Manufacturing
+LeBron James,United States,True,Sports
+Johan Johannson,Norway,False,Fashion & Retail
+Morris Kahn,Israel,True,Technology
+Ashok Kajaria,India,True,Manufacturing
+Marcelo Kalim,Brazil,True,Finance & Investments
+Ken Kendrick,United States,True,Sports
+Brad Keywell,United States,True,Technology
+Muhammed Aziz Khan,Bangladesh,True,Energy
+Kim Jung-woong,South Korea,True,Fashion & Retail
+Ihor Kolomoyskyy,Israel,True,Diversified
+Kong Jian Min,China,True,Real Estate
+Koo Bon-neung,South Korea,False,Manufacturing
+Michael Kum,Singapore,True,Real Estate
+Richard Kurtz,United States,True,Real Estate
+Lev Kvetnoi,Russia,True,Finance & Investments
+Michiel Le Roux,South Africa,True,Finance & Investments
+Li Wanqiang,China,True,Technology
+Liu Baolin,China,True,Fashion & Retail
+Loo Choon Yong,Singapore,True,Healthcare
+Lu Yonghua & family,China,True,Technology
+Ma Xiuhui,China,True,Manufacturing
+Apoorva Mehta,Canada,True,Technology
+Gabriella Meister,Germany,False,Manufacturing
+Ulrike Meister,Germany,False,Manufacturing
+Andrei Molchanov,Russia,True,Construction & Engineering
+Fulvio Montipò & family,Italy,True,Manufacturing
+Stanley Motta,Panama,False,Finance & Investments
+Tyler Perry,United States,True,Media & Entertainment
+Réal Plourde,Canada,True,Fashion & Retail
+Vera Rechulski Santo Domingo,Brazil,False,Food & Beverage
+George Sakellaris,United States,True,Energy
+Eddy Kusnadi Sariaatmadja,Indonesia,True,Media & Entertainment
+Neerja Sethi,United States,True,Technology
+Scott Smith,United States,True,Technology
+Petter Stordalen & family,Norway,True,Service
+Ivan Streshinsky,Russia,True,Diversified
+Sergei Sudarikov,Russia,True,Finance & Investments
+Wijono Tanoko,Indonesia,False,Manufacturing
+Haryanto Tjiptodihardjo,Indonesia,False,Manufacturing
+David Tran & family,United States,True,Food & Beverage
+Kenzo Tsujimoto,Japan,True,Media & Entertainment
+Murat Vargi,Turkey,True,Telecom
+Shigefumi Wada,Japan,True,Technology
+Wan Feng & family,China,True,Healthcare
+Wang Jianfeng & family,China,True,Automotive
+Masaru Wasami,Japan,True,Logistics
+V. Prem Watsa,Canada,True,Finance & Investments
+Wen Pengcheng & family,China,True,Food & Beverage
+Toto Wolff,Austria,True,Sports
+Franziska Wuerbser,Germany,False,Manufacturing
+Xie Bingzheng & family,China,True,Fashion & Retail
+Xu Gang,China,True,Manufacturing
+Yan Junxu,China,True,Manufacturing
+Yi Xianzhong & family,China,True,Healthcare
+Yu Rong,China,True,Healthcare
+"Richard Yuengling, Jr.",United States,False,Food & Beverage
+Zhang Gongyun,China,True,Manufacturing
+Zhang Guiping & family,China,True,Real Estate
+Inigo Zobel,Philippines,False,Diversified
